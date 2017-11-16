@@ -34,27 +34,27 @@ Bachelor of Science, Ss. Cyril and Methodius University, Skopje, Macedonia
 
 ### Refereed Publications (articles, proceedings)
 
-Ilik, Violeta, Michael Conlon, Graham Triggs, Melissa A Haendel, and Kristi L Holmes. 2017. “OpenVIVO: Transparency in Scholarship”. Open Science Framework. October 1. https://dx.doi.org/10.17605/OSF.IO/5N2TQ. [preprint]
+Ilik, Violeta, Michael Conlon, Graham Triggs, Melissa A Haendel, and Kristi L Holmes. 2017. “OpenVIVO: Transparency in Scholarship”. Open Science Framework. October 1. <https://dx.doi.org/10.17605/OSF.IO/5N2TQ>. [preprint]
 
-Ilik, V. and Holmes, K. (2017). JMLA Virtual Column: A Repository Solution for the future. page 413. In "Facing reality: the growth of virtual reality and health sciences libraries." Lessick, Susan; Kraft, Michelle. Journal of the Medical Library Association, [S.l.], v. 105, n. 4, p. 407–417, Oct. 2017. ISSN 1558-9439. http://dx.doi.org/10.5195/jmla.2017.329 
+Ilik, V. and Holmes, K. (2017). JMLA Virtual Column: A Repository Solution for the future. page 413. In "Facing reality: the growth of virtual reality and health sciences libraries." Lessick, Susan; Kraft, Michelle. Journal of the Medical Library Association, [S.l.], v. 105, n. 4, p. 407–417, Oct. 2017. ISSN 1558-9439. <http://dx.doi.org/10.5195/jmla.2017.329> 
 
-Ilik, V. (2017). Report of the ALCTS/LITA Linked Library Data Interest Group Meeting. American Library Association Annual Conference. Orlando, June 2016. Technical Services Quarterly, 34(1), 95-104. http://dx.doi.org/10.1080/07317131.2017.1238211
+Ilik, V. (2017). Report of the ALCTS/LITA Linked Library Data Interest Group Meeting. American Library Association Annual Conference. Orlando, June 2016. Technical Services Quarterly, 34(1), 95-104. <http://dx.doi.org/10.1080/07317131.2017.1238211>
 
-Ilik, V. (2015). Distributed Person Data: Using Semantic Web Compliant Data in Subject Name Headings In Conference Proceedings, edited by Aida Slavic and Maria Inês Cordeiro, International UDC Seminar, Classification and Authority Control: Expanding Resource Discovery. (pp. 53-65). Würzburg: Ergon Verlag. http://dx.doi.org/10.18131/G32G7X
+Ilik, V. (2015). Distributed Person Data: Using Semantic Web Compliant Data in Subject Name Headings In Conference Proceedings, edited by Aida Slavic and Maria Inês Cordeiro, International UDC Seminar, Classification and Authority Control: Expanding Resource Discovery. (pp. 53-65). Würzburg: Ergon Verlag. <http://dx.doi.org/10.18131/G32G7X>
 
-Ilik, V. (2015). Visual Representation of Academic Communities through Viewshare. Library Resources and Technical Services 59 (1). http://dx.doi.org/10.5860/lrts.59n1.43
+Ilik, V. (2015). Visual Representation of Academic Communities through Viewshare. Library Resources and Technical Services 59 (1). <http://dx.doi.org/10.5860/lrts.59n1.43>
 
-Ilik, V.  (2015). Cataloger Makeover: Creating Non-MARC Name Authority Records. Cataloging & Classification Quarterly http://dx.doi.org/10.1080/01639374.2014.961626
+Ilik, V.  (2015). Cataloger Makeover: Creating Non-MARC Name Authority Records. Cataloging & Classification Quarterly <http://dx.doi.org/10.1080/01639374.2014.961626>
 
-Ilik, V., Storlien, J., and Olivarez, J. (2014). Metadata Makeover: Transforming MARC Records Using XSLT. Library Resources and Technical Services 58 (3): 187-208. http://dx.doi.org/10.5860/lrts.58n3.187
+Ilik, V., Storlien, J., and Olivarez, J. (2014). Metadata Makeover: Transforming MARC Records Using XSLT. Library Resources and Technical Services 58 (3): 187-208. <http://dx.doi.org/10.5860/lrts.58n3.187>
 
-Ilik, V., Potvin, S., Ho, J., Tucker, S., Clement, G., Creel, J., and Wan, G. (2014). Collecting and Digitizing Forgotten Graduate Student Scholarship: The PILOs Project at Texas A&M University. Collection Management 39 (4). http://dx.doi.org/10.1080/01462679.2014.937515
+Ilik, V., Potvin, S., Ho, J., Tucker, S., Clement, G., Creel, J., and Wan, G. (2014). Collecting and Digitizing Forgotten Graduate Student Scholarship: The PILOs Project at Texas A&M University. Collection Management 39 (4). <http://dx.doi.org/10.1080/01462679.2014.937515>
 
-Ilik, V., Storlien, J., & Olivarez, J. (2013). Can Viewshare Be Used as a Research Network Visualization Tool? A Case Study Based on STEM Departments at Texas A&M University. Journal of Library Metadata 13 (4). http://dx.doi.org/10.1080/19386389.2013.846626
+Ilik, V., Storlien, J., & Olivarez, J. (2013). Can Viewshare Be Used as a Research Network Visualization Tool? A Case Study Based on STEM Departments at Texas A&M University. Journal of Library Metadata 13 (4). <http://dx.doi.org/10.1080/19386389.2013.846626>
 
-Mandell, L. and Ilik, V. (2013). The Role of XSLT in Digital Libraries, Editions, and Cultural Exhibits  in T. Aalberg et al. (Eds.): TPDL 2013, LNCS 8092,(Heidelberg, Germany: Springer, 2013), pp. 482-3. http://link.springer.com/chapter/10.1007%2F978-3-642-40501-3_67
+Mandell, L. and Ilik, V. (2013). The Role of XSLT in Digital Libraries, Editions, and Cultural Exhibits  in T. Aalberg et al. (Eds.): TPDL 2013, LNCS 8092,(Heidelberg, Germany: Springer, 2013), pp. 482-3. <http://link.springer.com/chapter/10.1007%2F978-3-642-40501-3_67>
 
-Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials Librarian 63(3-4): 350-358. http://dx.doi.org/10.1080/0361526X.2012.717525
+Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials Librarian 63(3-4): 350-358. <http://dx.doi.org/10.1080/0361526X.2012.717525>
 
 
 ## Presentations and Posters

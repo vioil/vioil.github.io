@@ -34,6 +34,9 @@ Bachelor of Science, Ss. Cyril and Methodius University, Skopje, Macedonia
 
 ### Refereed Publications (articles, proceedings)
 
+Ilik, Violeta, Michael Conlon, Graham Triggs, Melissa A Haendel, and Kristi L Holmes. 2017. “OpenVIVO: Transparency in Scholarship”. Open Science Framework. October 1. https://dx.doi.org/10.17605/OSF.IO/5N2TQ. [preprint]
+
+Ilik, V. and Holmes, K. (2017). JMLA Virtual Column: A Repository Solution for the future. page 413. In "Facing reality: the growth of virtual reality and health sciences libraries." Lessick, Susan; Kraft, Michelle. Journal of the Medical Library Association, [S.l.], v. 105, n. 4, p. 407–417, Oct. 2017. ISSN 1558-9439. http://dx.doi.org/10.5195/jmla.2017.329 
 
 Ilik, V. (2017). Report of the ALCTS/LITA Linked Library Data Interest Group Meeting. American Library Association Annual Conference. Orlando, June 2016. Technical Services Quarterly, 34(1), 95-104. http://dx.doi.org/10.1080/07317131.2017.1238211
 
@@ -60,6 +63,10 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 #### International and National
 		
+
+Ilik, Violeta. (2017) Real Time Information Channel. FORCE 2017 Conference. Berlin, Germany October 25, 2017. https://doi.org/10.6084/m9.figshare.5550166.v1
+
+Ilik, Violeta. (2017) Managing Identities and Entities. University Libraries Colloquium Series. Stony Brook, NY, September 21, 2017.
 
 Elsborg, Don; Gross, Benjamin; Ilik, Violeta; Porter, Simon; Frank, Paul; Javed, Muhammad; Fereira, John. (2017): Crosswalking Research Vocabularies in VIVO. VIVO 2017 Conference, NYC, NY, August 2, 2017. figshare. https://doi.org/10.6084/m9.figshare.5272174.v1
 
@@ -140,6 +147,11 @@ Friedman, Paul, Kibbe, Warren, Ilik, Violeta, Starren, Justin, and Holmes, Krist
 
 Hebal, Piotr, Ilik, Violeta, and Holmes, Kristi. Starting from scratch – building the perfect digital repository. Open Repositories 2015, Indianapolis, IN, June 9, 2015. http://dx.doi.org/10.18131/G3G599
 
+## Blog Posts
+
+Ilik, Violeta (2017, October 19). Real Time Information Channel [Blog post]. Retrieved from https://ilikvioleta.blogspot.com/2017/10/real-time-information-channel.html
+
+Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from https://ilikvioleta.blogspot.com/2017/08/why-not-share.html
 
 ## Documentation of Professional Activities
 

@@ -143,7 +143,7 @@ Conlon, Michael; Triggs, Graham; Ilik, Violeta; Lawless, Ted; Holmes, Kristi; Bl
 
 Ilik, Violeta; Hebal, Piotr; Olson, Tony; Stirnaman, Jason; Kubilius, Ramune; Wishnetsky, Susan; Gutzman, Karen; Shank, Jonathan; Holmes, Kristi (2016): Supporting the spectrum of scholarship in DigitalHub. figshare. <https://dx.doi.org/10.6084/m9.figshare.3159853.v1>. Force 2016 Conference, Portland, OR, April 2016.
 
-Friedman, Paul, Kibbe, Warren, Ilik, Violeta, Starren, Justin, and Holmes, Kristi. Moving a Custom Application to use VIVO-Compliant Linked Open Data. VIVO 2015 Conference, Cambridge, MA, August 13, 2015
+Friedman, Paul, Kibbe, Warren, Ilik, Violeta, Starren, Justin, and Holmes, Kristi. Moving a Custom Application to use VIVO-Compliant Linked Open Data. VIVO 2015 Conference, Cambridge, MA, August 13, 2015. <https://doi.org/10.6084/m9.figshare.2002158.v2>
 
 Hebal, Piotr, Ilik, Violeta, and Holmes, Kristi. Starting from scratch – building the perfect digital repository. Open Repositories 2015, Indianapolis, IN, June 9, 2015. <http://dx.doi.org/10.18131/G3G599>
 

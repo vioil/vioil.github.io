@@ -7,7 +7,7 @@ title: Violeta Ilik
 
 ## Summary Record of Faculty Appointment
 ### Head of Cataloging and Metadata Services
-### Stony Brook University Libraries
+#### Stony Brook University Libraries
 
 Office: 100 Nicolls Rd. W2510 Frank Melville Jr. Library Stony Brook, NY 11794-3319
 
@@ -28,11 +28,11 @@ Bachelor of Science, Ss. Cyril and Methodius University, Skopje, Macedonia
 
 
 
-## Documentation of Publications, Research, and Presentations
+### Documentation of Publications, Research, and Presentations
 
-## Publications
+### Publications
 
-### Refereed Publications (articles, proceedings)
+#### Refereed Publications (articles, proceedings)
 
 Ilik, Violeta, Michael Conlon, Graham Triggs, Melissa A Haendel, and Kristi L Holmes. 2017. “OpenVIVO: Transparency in Scholarship”. Open Science Framework. October 1. <https://dx.doi.org/10.17605/OSF.IO/5N2TQ>. [preprint]
 
@@ -57,11 +57,11 @@ Mandell, L. and Ilik, V. (2013). The Role of XSLT in Digital Libraries, Editions
 Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials Librarian 63(3-4): 350-358. <http://dx.doi.org/10.1080/0361526X.2012.717525>
 
 
-## Presentations and Posters
+### Presentations and Posters
 
-### Presentations 
+#### Presentations 
 
-#### International and National
+##### International and National
 		
 
 Ilik, Violeta. (2017) Real Time Information Channel. FORCE 2017 Conference. Berlin, Germany October 25, 2017. <https://doi.org/10.6084/m9.figshare.5550166.v1>
@@ -128,7 +128,7 @@ Ilik, Violeta.  (2013). Linked data: The First Step is the Hardest. American Lib
 
 Ilik, Violeta.  (2012). Challenges of Displaying Metadata from Voyager, SFX, Metalib & Primo. Ex Libris Northeast Users Group (ENUG) Conference, Ithaca, NY, October 18, 2012.
 
-### Posters
+#### Posters
 
 Ilik, Violeta, and Kristi Lee Holmes. We Built it and They Came! Building a Repository Solution for the Future. MLA 2017, Seattle, WA, May 30, 2017. Galter Health Sciences Library, 2017. <http://dx.doi.org/10.18131/G3S32R>
 
@@ -147,16 +147,16 @@ Friedman, Paul, Kibbe, Warren, Ilik, Violeta, Starren, Justin, and Holmes, Krist
 
 Hebal, Piotr, Ilik, Violeta, and Holmes, Kristi. Starting from scratch – building the perfect digital repository. Open Repositories 2015, Indianapolis, IN, June 9, 2015. <http://dx.doi.org/10.18131/G3G599>
 
-## Blog Posts
+### Blog Posts
 
 Ilik, Violeta (2017, October 19). Real Time Information Channel [Blog post]. Retrieved from <https://ilikvioleta.blogspot.com/2017/10/real-time-information-channel.html>
 
 Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <https://ilikvioleta.blogspot.com/2017/08/why-not-share.html>
 
-## Documentation of Professional Activities
+### Documentation of Professional Activities
 
 
-### International and National Committees
+#### International and National Committees
 
 ALCTS/LITA Linked Library Data Interest Group Co-Chair/Chair, 2014-2016
 
@@ -188,12 +188,14 @@ VIVO 2017 Conference Program Chair
 
 VIVO 2016 Conference Program Co-Chair
 
-VIVO Implementation Documentation Task Force – Lead, 2015 <https://wiki.duraspace.org/display/VIVO/VIVO+Implementation+Documentation+Task+Force>
+[VIVO Implementation Documentation Task Force – Lead](https://wiki.duraspace.org/display/VIVO/VIVO+Implementation+Documentation+Task+Force), 2015
 
 VIVO 2015 Program Planning Committee and Session Chair- 2015
 
 
-## Teaching/Workshops 
+### Teaching/Workshops 
+
+Instructor: Mike Conlon, Graham Triggs, Violeta Ilik, Paul Albert, and Julia Trimmer: VIVO Camp 2017, Durham, NC, November 9-11, 2017
 
 Instructor: Mike Conlon, Graham Triggs, Violeta Ilik, Paul Albert, and Julia Trimmer: VIVO Camp 2017, Albuquerque, NM, April 6-8, 2017.
 
@@ -218,6 +220,6 @@ Course Instructor, XSLT Book Workshop, Text Encoding Initiative Conference 2012,
 Workshop Instructor, Serials Cataloging Cooperative Training Program (SCCTP) – Serials Holdings Workshop - College Station, TX, December 2012.
 
 
-## Editorial Board Member
+### Editorial Board Member
 
 Library Resources and Technical Services (LRTS) 2017-1019

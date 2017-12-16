@@ -34,9 +34,11 @@ Bachelor of Science, Ss. Cyril and Methodius University, Skopje, Macedonia
 
 #### Refereed Publications (articles, proceedings)
 
-Ilik, Violeta, Michael Conlon, Graham Triggs, Melissa A Haendel, and Kristi L Holmes. 2017. “OpenVIVO: Transparency in Scholarship”. Open Science Framework. October 1. <https://dx.doi.org/10.17605/OSF.IO/5N2TQ>. [preprint]
+Ilik, Violeta, Michael Conlon, Graham Triggs, Melissa A Haendel, and Kristi L Holmes. 2017. “OpenVIVO: Transparency in Scholarship”. Open Science Framework. October 1. <https://dx.doi.org/10.17605/OSF.IO/5N2TQ> [preprint]. Original draft on Overleaf in LaTeX: https://www.overleaf.com/read/wbzvhfqmxfdg
 
 Ilik, V. and Holmes, K. (2017). JMLA Virtual Column: A Repository Solution for the future. page 413. In "Facing reality: the growth of virtual reality and health sciences libraries." Lessick, Susan; Kraft, Michelle. Journal of the Medical Library Association, [S.l.], v. 105, n. 4, p. 407–417, Oct. 2017. ISSN 1558-9439. <http://dx.doi.org/10.5195/jmla.2017.329> 
+
+Ilik, V. (2017) Report of the ALCTS Scholarly Communication Interest Group Meeting. American Library Association Midwinter Meeting, Atlanta, January 2017, Technical Services Quarterly, 34:4, 409-418. <http://dx.doi.org/10.1080/07317131.2017.1358426>
 
 Ilik, V. (2017). Report of the ALCTS/LITA Linked Library Data Interest Group Meeting. American Library Association Annual Conference. Orlando, June 2016. Technical Services Quarterly, 34(1), 95-104. <http://dx.doi.org/10.1080/07317131.2017.1238211>
 

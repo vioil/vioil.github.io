@@ -98,6 +98,8 @@ Ilik, Violeta. (2015). Karma data integration: creating semantic web compliant V
 
 Ilik, Violeta. (2015). Dos and Don’ts of extending the VIVO ontology. VIVO iFest, Portland, OR, March 16, 2015. <http://dx.doi.org/10.18131/G33014>
 
+Ilik, Violeta. (2015)  Transforming MARCXML Records Using XSLT - ALCTS Webinar March 4, 2015: <http://www.ala.org/alcts/confevents/upcoming/webinar/030415>. YouTube: <https://youtu.be/135Is0vfIqE> - Slides: <http://downloads.alcts.ala.org/ce/040315_Transforming_marcxml_xslt_slides.pdf>
+
 Ilik, Violeta and Friedman, Paul. (2015). Northwestern University Local Ontology Extensions, VIVO Apps and Tools Working Group Call, February 10, 2015 
 
 Ilik, Violeta. (2014). Distributed Person Data - NISO Virtual Conference: Can't We All Work Together?: Interoperability & Systems Integration, November 19, 2014. <https://www.slideshare.net/BaltimoreNISO/ilik-vivo>

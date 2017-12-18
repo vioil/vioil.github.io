@@ -26,7 +26,13 @@ Master of Arts Management, Doane College, Crete, NE
 Bachelor of Science, Ss. Cyril and Methodius University, Skopje, Macedonia 
 	Major: Chemical Engineering
 
+### Experience
 
+Head, Digital Systems and Collection Services - Northwestern University, Feinberg School of Medicine, Galter Health Sciences Library, Northwestern University Clinical and Translational Sciences Institute, November 2014 – July 2017
+
+Assistant Professor, Texas A&M University Libraries, February 2012 – October 2014
+
+Library Specialist I-III, Texas A&M University Libraries, November 2007 - February 2012
 
 ### Documentation of Publications, Research, and Presentations
 
@@ -34,7 +40,7 @@ Bachelor of Science, Ss. Cyril and Methodius University, Skopje, Macedonia
 
 #### Refereed Publications (articles, proceedings)
 
-Ilik, Violeta, Michael Conlon, Graham Triggs, Melissa A Haendel, and Kristi L Holmes. 2017. “OpenVIVO: Transparency in Scholarship”. Open Science Framework. October 1. <https://dx.doi.org/10.17605/OSF.IO/5N2TQ> [preprint]. Original draft on Overleaf in LaTeX: https://www.overleaf.com/read/wbzvhfqmxfdg
+Ilik, Violeta, Michael Conlon, Graham Triggs, Melissa A Haendel, and Kristi L Holmes. 2017. “OpenVIVO: Transparency in Scholarship”. Open Science Framework. October 1. <https://dx.doi.org/10.17605/OSF.IO/5N2TQ> [preprint]. Original draft on Overleaf in LaTeX: <https://www.overleaf.com/read/wbzvhfqmxfdg>
 
 Ilik, V. and Holmes, K. (2017). JMLA Virtual Column: A Repository Solution for the future. page 413. In "Facing reality: the growth of virtual reality and health sciences libraries." Lessick, Susan; Kraft, Michelle. Journal of the Medical Library Association, [S.l.], v. 105, n. 4, p. 407–417, Oct. 2017. ISSN 1558-9439. <http://dx.doi.org/10.5195/jmla.2017.329> 
 
@@ -65,6 +71,7 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
+Ilik, Violeta. (2017) Lightning Talk: Real Time Information Channel. SWIB 2017 Conference. Hamburg, Germany December 5, 2017. 
 
 Ilik, Violeta. (2017) Real Time Information Channel. FORCE 2017 Conference. Berlin, Germany October 25, 2017. <https://doi.org/10.6084/m9.figshare.5550166.v1>
 

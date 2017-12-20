@@ -204,6 +204,15 @@ VIVO 2016 Conference Program Co-Chair
 VIVO 2015 Program Planning Committee and Session Chair- 2015
 
 
+### Executive Board Member
+
+Force11 - The Future of Research Communication and e-Scholarship (January 2018 - January 2021)
+
+### Editorial Board Member
+
+Library Resources and Technical Services (LRTS) 2017-1019
+
+
 ### Teaching/Workshops 
 
 Instructor: Mike Conlon, Graham Triggs, Violeta Ilik, Paul Albert, and Julia Trimmer: VIVO Camp 2017, Durham, NC, November 9-11, 2017
@@ -230,7 +239,3 @@ Course Instructor, XSLT Book Workshop, Text Encoding Initiative Conference 2012,
 
 Workshop Instructor, Serials Cataloging Cooperative Training Program (SCCTP) – Serials Holdings Workshop - College Station, TX, December 2012.
 
-
-### Editorial Board Member
-
-Library Resources and Technical Services (LRTS) 2017-1019

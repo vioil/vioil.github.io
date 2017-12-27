@@ -40,6 +40,8 @@ Library Specialist I-III, Texas A&M University Libraries, November 2007 - Februa
 
 #### Refereed Publications (articles, proceedings)
 
+Ilik,Violeta, Piotr Hebal, Anton Olson, Susan Wishnetsky, Joelen Pastva, Ramune Kubilius, Jonathan Shank, Karen Gutzman, Margarita Chung, and Kristi Holmes. DigitalHub: A Repository Focused on the Future. Medical Reference Services Quarterly, 37:1, p. 31-42. Feb. 2018. <https://dx.doi.org/10.1080/02763869.2018.1404386>
+
 Ilik, Violeta, Michael Conlon, Graham Triggs, Melissa A Haendel, and Kristi L Holmes. 2017. “OpenVIVO: Transparency in Scholarship”. Open Science Framework. October 1. <https://dx.doi.org/10.17605/OSF.IO/5N2TQ> [preprint]. Original draft on Overleaf in LaTeX: <https://www.overleaf.com/read/wbzvhfqmxfdg>
 
 Ilik, V. and Holmes, K. (2017). JMLA Virtual Column: A Repository Solution for the future. page 413. In "Facing reality: the growth of virtual reality and health sciences libraries." Lessick, Susan; Kraft, Michelle. Journal of the Medical Library Association, [S.l.], v. 105, n. 4, p. 407–417, Oct. 2017. ISSN 1558-9439. <http://dx.doi.org/10.5195/jmla.2017.329> 

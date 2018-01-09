@@ -11,7 +11,7 @@ title: Violeta Ilik
 
 Office: 100 Nicolls Rd. W2510 Frank Melville Jr. Library Stony Brook, NY 11794-3319
 
-<a href="https://orcid.org/0000-0003-2588-3084" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-2588-3084</a>
+<span about="" prefix="foaf: http://xmlns.com/foaf/0.1/" typeof="foaf:PersonalProfileDocument" rel="foaf:primaryTopic"><span about="https://vioil.github.io/#i" typeof="foaf:Person"><span property="foaf:name" content="Violeta Ilik"></span><a href="https://orcid.org/0000-0003-2588-3084" target="orcid.widget" rel="noopener noreferrer foaf:homepage" style="vertical-align:top;"><img about="https://vioil.github.io/#i" rel="foaf:img" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon" />orcid.org/0000-0003-2588-3084</a><span rel="foaf:knows" resource="http://csarven.ca/#i"></span></span></span>
 
 ## Education and Experience
 

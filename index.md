@@ -217,7 +217,7 @@ Library Resources and Technical Services (LRTS) 2017-1019
 
 ### Teaching/Workshops 
 
-Guest Lecturer: Violeta Ilik. INFO 670:  Linked Open Data for Libraries, Archives and Museums | Spring 2018. Pratt Institute, School of Information. February 7, 2018.
+Guest Lecturer: Violeta Ilik. INFO 670 Linked Open Data for Libraries, Archives and Museums, Spring 2018. Pratt Institute, School of Information. February 7, 2018.
 
 Instructor: Mike Conlon, Graham Triggs, Violeta Ilik, Paul Albert, and Julia Trimmer: VIVO Camp 2017, Durham, NC, November 9-11, 2017.
 

@@ -217,23 +217,25 @@ Library Resources and Technical Services (LRTS) 2017-1019
 
 ### Teaching/Workshops 
 
-Instructor: Mike Conlon, Graham Triggs, Violeta Ilik, Paul Albert, and Julia Trimmer: VIVO Camp 2017, Durham, NC, November 9-11, 2017
+Guest Lecturer: Violeta Ilik. INFO 670:  Linked Open Data for Libraries, Archives and Museums | Spring 2018. Pratt Institute, School of Information. February 7, 2018.
+
+Instructor: Mike Conlon, Graham Triggs, Violeta Ilik, Paul Albert, and Julia Trimmer: VIVO Camp 2017, Durham, NC, November 9-11, 2017.
 
 Instructor: Mike Conlon, Graham Triggs, Violeta Ilik, Paul Albert, and Julia Trimmer: VIVO Camp 2017, Albuquerque, NM, April 6-8, 2017.
 
-Workshop Instructor: Pedro Szekely and Violeta Ilik. VIVO 2016 Workshop: Data integration with Karma. Denver, CO, August 17, 2016
+Workshop Instructor: Pedro Szekely and Violeta Ilik. VIVO 2016 Workshop: Data integration with Karma. Denver, CO, August 17, 2016.
 
 Class Instructor: Violeta Ilik. DigitalHub: Preserving and Sharing Your Work Using NM's Repository. Galter Health Sciences Library regular class, Chicago, IL, December 2015 -
 
-Workshop Instructor: John Fereira, Cornell University; Violeta Ilik, Northwestern University; Alex Viggio, Symplectic Ltd. VIVO 2015 Workshop  “Managing Your Data Flows: Architecture and Data Provenance For Your Institution – Section: Karma is a Tool.” VIVO 2015 Conference, Cambridge, MA, August 12, 2015
+Workshop Instructor: John Fereira, Cornell University; Violeta Ilik, Northwestern University; Alex Viggio, Symplectic Ltd. VIVO 2015 Workshop  “Managing Your Data Flows: Architecture and Data Provenance For Your Institution – Section: Karma is a Tool.” VIVO 2015 Conference, Cambridge, MA, August 12, 2015.
 
-Workshop Instructor: Violeta Ilik, Northwestern University, Alexandre Rademaker, Fundação Getulio Vargas & IBM Research, Chris Barnes, University of Florida; Ted Lawless, Brown University; and Jim Blake, Cornell University. Awesome Apps to Enhance Your VIVO – Section: Karma is a Tool! VIVO 2015 Conference, Cambridge, MA, August 12, 2015
+Workshop Instructor: Violeta Ilik, Northwestern University, Alexandre Rademaker, Fundação Getulio Vargas & IBM Research, Chris Barnes, University of Florida; Ted Lawless, Brown University; and Jim Blake, Cornell University. Awesome Apps to Enhance Your VIVO – Section: Karma is a Tool! VIVO 2015 Conference, Cambridge, MA, August 12, 2015.
 
 Workshop Instructor: Modeling Data with Karma – Data Integration Tool (semantic web compliant data for VIVO 1.6 and 1.7 instances) - VIVO/SciTS Conference, Austin, TX, August 6, 2014.
 
-Workshop Instructor: VIVO for beginners – running a local VIVO installation and importing research information data - Lukas Koster, Ina Blümel, Gabriel Birke*, Violeta Ilik*, and Ted Lawless* - ELAG Conference, Bath, UK June 10-13, 2014
+Workshop Instructor: VIVO for beginners – running a local VIVO installation and importing research information data - Lukas Koster, Ina Blümel, Gabriel Birke*, Violeta Ilik*, and Ted Lawless* - ELAG Conference, Bath, UK June 10-13, 2014.
 
-Course Instructor: Programming for Humanists, Initiative for Digital Humanities, Media, and Culture (IDHMC), Texas A&M University, College Station, TX, Spring Semester 2014 
+Course Instructor: Programming for Humanists, Initiative for Digital Humanities, Media, and Culture (IDHMC), Texas A&M University, College Station, TX, Spring Semester 2014. 
 
 Workshop Instructor, Birnbaum, David and Violeta Ilik. “The Role of XSLT in Digital Libraries, Editions, and Cultural Exhibits.” Juried Workshop. 17th International Conference on Theory and Practice of Digital Libraries (TPDL 2013), Valetta, Malta, September 22, 2013. 
 

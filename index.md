@@ -73,6 +73,8 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
+Ilik, Violeta. (2018) VIVO and the Role of Librarians, Part 1, American Library Association, February 28, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/022818 Document ID: ac928668-00f1-4862-91e1-4cef132026a1
+
 Ilik, Violeta. (2017) Lightning Talk: Real Time Information Channel. SWIB 2017 Conference. Hamburg, Germany December 5, 2017. <http://swib.org/swib17/slides/ilik-real-time-info-channel.pdf>
 
 Ilik, Violeta. (2017) Real Time Information Channel. FORCE 2017 Conference. Berlin, Germany October 25, 2017. <https://doi.org/10.6084/m9.figshare.5550166.v1>
@@ -197,13 +199,15 @@ Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee
 
 VIVO Camp Task Force Instructor, 2016 –
 
+[VIVO Ontology Improvement Task Force] (https://wiki.duraspace.org/display/VIVO/Ontology+Improvement+Task+Force), 2017 -
+
 VIVO 2017 Conference Program Chair
 
 VIVO 2016 Conference Program Co-Chair
 
 [VIVO Implementation Documentation Task Force – Lead](https://wiki.duraspace.org/display/VIVO/VIVO+Implementation+Documentation+Task+Force), 2015
 
-VIVO 2015 Program Planning Committee and Session Chair- 2015
+VIVO 2015 Program Planning Committee and Session Chair
 
 
 ### Executive Board Member

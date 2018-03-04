@@ -199,7 +199,7 @@ Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee
 
 VIVO Camp Task Force Instructor, 2016 –
 
-[VIVO Ontology Improvement Task Force] (https://wiki.duraspace.org/display/VIVO/Ontology+Improvement+Task+Force), 2017 -
+[VIVO Ontology Improvement Task Force](https://wiki.duraspace.org/display/VIVO/Ontology+Improvement+Task+Force), 2017 -
 
 VIVO 2017 Conference Program Chair
 

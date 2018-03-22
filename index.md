@@ -42,7 +42,9 @@ Library Specialist I-III, Texas A&M University Libraries, November 2007 - Februa
 
 Ilik,Violeta, Piotr Hebal, Anton Olson, Susan Wishnetsky, Joelen Pastva, Ramune Kubilius, Jonathan Shank, Karen Gutzman, Margarita Chung, and Kristi Holmes. DigitalHub: A Repository Focused on the Future. Medical Reference Services Quarterly, 37:1, p. 31-42. Feb. 2018. <https://dx.doi.org/10.1080/02763869.2018.1404386>
 
-Ilik, Violeta, Michael Conlon, Graham Triggs, Melissa A Haendel, and Kristi L Holmes. 2017. “OpenVIVO: Transparency in Scholarship”. Open Science Framework. October 1. <https://dx.doi.org/10.17605/OSF.IO/5N2TQ> [preprint]. Original draft on Overleaf in LaTeX: <https://www.overleaf.com/read/wbzvhfqmxfdg>
+Ilik Violeta, Conlon Michael, Triggs Graham, White Marijane, Javed Muhammad, Brush Matthew, Gutzman Karen, Essaid Shahim, Friedman Paul, Porter Simon, Szomszor Martin, Haendel Melissa Anne, Eichmann David, Holmes Kristi L. (2018). "OpenVIVO: Transparency in Scholarship." Frontiers in Research Metrics and Analytics, v.2, March 2018. ISSN 2504-0537. <https://doi.org/10.3389/frma.2017.00012> 
+
+Ilik, Violeta, Michael Conlon, Graham Triggs, Melissa A Haendel, and Kristi L Holmes. 2017. “OpenVIVO: Transparency in Scholarship." Open Science Framework. October 1. <https://dx.doi.org/10.17605/OSF.IO/5N2TQ> [preprint]. Original draft on Overleaf in LaTeX: <https://www.overleaf.com/read/wbzvhfqmxfdg>
 
 Ilik, V. and Holmes, K. (2017). JMLA Virtual Column: A Repository Solution for the future. page 413. In "Facing reality: the growth of virtual reality and health sciences libraries." Lessick, Susan; Kraft, Michelle. Journal of the Medical Library Association, [S.l.], v. 105, n. 4, p. 407–417, Oct. 2017. ISSN 1558-9439. <http://dx.doi.org/10.5195/jmla.2017.329> 
 
@@ -73,9 +75,9 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
-Ilik, Violeta. (2018) VIVO and the Role of Librarians, Part 1, American Library Association, March 14, 2018.
+Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 2", American Library Association, March 14, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/031418 Document ID: a85aec5a-6e5a-4418-94b1-95a598fbc38a
 
-Ilik, Violeta. (2018) VIVO and the Role of Librarians, Part 1, American Library Association, February 28, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/022818 Document ID: ac928668-00f1-4862-91e1-4cef132026a1
+Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 1", American Library Association, February 28, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/022818 Document ID: ac928668-00f1-4862-91e1-4cef132026a1
 
 Ilik, Violeta. (2017) Lightning Talk: Real Time Information Channel. SWIB 2017 Conference. Hamburg, Germany December 5, 2017. <http://swib.org/swib17/slides/ilik-real-time-info-channel.pdf>
 

@@ -5,11 +5,9 @@ title: Violeta Ilik
 
 # Violeta Ilik
 
-## Summary Record of Faculty Appointment
-### Head of Cataloging and Metadata Services
-#### Stony Brook University Libraries
+### Head of Digital Collections and Preservation Systems
+#### Columbia University
 
-Office: 100 Nicolls Rd. W2510 Frank Melville Jr. Library Stony Brook, NY 11794-3319
 
 <span about="" prefix="foaf: http://xmlns.com/foaf/0.1/ owl: http://www.w3.org/2002/07/owl#" typeof="foaf:PersonalProfileDocument" rel="foaf:primaryTopic"><span about="https://vioil.github.io/#i" typeof="foaf:Person"><span property="foaf:name" content="Violeta Ilik"></span><a href="https://orcid.org/0000-0003-2588-3084" target="orcid.widget" rel="noopener noreferrer owl:sameAs" style="vertical-align:top;"><img about="https://vioil.github.io/#i" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon" />orcid.org/0000-0003-2588-3084</a><span rel="foaf:homepage" resource="https://vioil.github.io/"></span><span rel="foaf:img" resource="https://avatars1.githubusercontent.com/u/3239996"></span><span rel="foaf:knows" resource="http://csarven.ca/#i"></span></span></span>
 
@@ -27,6 +25,8 @@ Bachelor of Science, Ss. Cyril and Methodius University, Skopje, Macedonia
 	Major: Chemical Engineering
 
 ### Experience
+
+Head of Cataloging and Metadata Services, Stony Brook University Libraries, July 2017 - March 2018
 
 Head, Digital Systems and Collection Services - Northwestern University, Feinberg School of Medicine, Galter Health Sciences Library, Northwestern University Clinical and Translational Sciences Institute, November 2014 – July 2017
 

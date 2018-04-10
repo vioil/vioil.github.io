@@ -164,6 +164,8 @@ Ilik, Violeta; Hebal, Piotr; Olson, Tony; Stirnaman, Jason; Kubilius, Ramune; Wi
 
 Friedman, Paul, Kibbe, Warren, Ilik, Violeta, Starren, Justin, and Holmes, Kristi. Moving a Custom Application to use VIVO-Compliant Linked Open Data. VIVO 2015 Conference, Cambridge, MA, August 13, 2015. <https://doi.org/10.6084/m9.figshare.2002158.v2>
 
+Friedman, Paul, Kibbe, Warren, Ilik, Violeta, Holmes, Kristi, Starren, Justin (2015). VIVO Around the World. VIVO 2015 Conference, Cambridge, MA, August 13, 2015.  <https://dx.doi.org/10.18131/G3W88P> 
+
 Hebal, Piotr, Ilik, Violeta, and Holmes, Kristi. Starting from scratch – building the perfect digital repository. Open Repositories 2015, Indianapolis, IN, June 9, 2015. <http://dx.doi.org/10.18131/G3G599>
 
 ### Blog Posts

@@ -75,9 +75,9 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
-Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 2", American Library Association, March 14, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/031418 Document ID: a85aec5a-6e5a-4418-94b1-95a598fbc38a
+Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 2", American Library Association, March 14, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/031418 Document ID: a85aec5a-6e5a-4418-94b1-95a598fbc38a <http://downloads.alcts.ala.org/ce/20180314_VIVO_and_the_Role_of_Librarians_Part_2_Slides.pdf>
 
-Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 1", American Library Association, February 28, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/022818 Document ID: ac928668-00f1-4862-91e1-4cef132026a1
+Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 1", American Library Association, February 28, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/022818 Document ID: ac928668-00f1-4862-91e1-4cef132026a1 <http://downloads.alcts.ala.org/ce/20180226_VIVO_and_the_Role_of_Librarians_Part_1_Slides.pdf>
 
 Ilik, Violeta. (2017) Lightning Talk: Real Time Information Channel. SWIB 2017 Conference. Hamburg, Germany December 5, 2017. <http://swib.org/swib17/slides/ilik-real-time-info-channel.pdf>
 

@@ -135,13 +135,13 @@ Ilik, Violeta. (2014). Modeling Data with Karma Data Integration Tool. 2014 VIVO
 
 Haendel, Melissa and Ilik, Violeta. (2014). Integrating with Others: Stable VIVO URIs for Local Authority Records; Linking to VIAF; ORCID Organizational Identifiers; W3C Dataset Ontology Work. 2014 VIVO Implementation Fest, Durham, NC, March 20, 2014. <https://www.slideshare.net/violetaili/vivo-bib>
 
-Ilik, Violeta. (2014). Cataloger Makeover. Juried Presentation. Faster, Smarter, and Richer (FSR 2014): Reshaping the Library Catalogue International Conference, Rome, Italy, February 28, 2014. <https://oaktrust.library.tamu.edu/handle/1969.1/151526>
+Ilik, Violeta. (2014). Cataloger Makeover. Faster, Smarter, and Richer (FSR 2014): Reshaping the Library Catalogue International Conference, Rome, Italy, February 28, 2014. <https://oaktrust.library.tamu.edu/handle/1969.1/151526>
 
 Bolton, Michael, Clement, Gail, Ilik, Violeta, and Tucker, Sandra. (2013).  Access to Graduate Scholarship in VIVO: Establishing Connections and Tracing Academic Lineage. Digital Library Forum (DLF), Austin, TX, November 5, 2013. <https://www.slideshare.net/violetaili/access-to-graduate-scholarship-in-vivo-establishing-connections-and-tracing-academic-lineage>
 
 Ilik, Violeta. (2013). Reuse, Repurpose. ALA Annual Conference, Chicago, IL, June 30, 2013. <https://oaktrust.library.tamu.edu/handle/1969.1/151527>
 
-Ilik, Violeta. (2013). Visualizing Metadata. Juried Presentation with published abstract, Texas Conference on Digital Libraries (TCDL), Austin, TX, May 7, 2013. <https://oaktrust.library.tamu.edu/handle/1969.1/151529>
+Ilik, Violeta. (2013). Visualizing Metadata. Texas Conference on Digital Libraries (TCDL), Austin, TX, May 7, 2013. <https://oaktrust.library.tamu.edu/handle/1969.1/151529>
 
 Ilik, Violeta.  (2013). Linked data: The First Step is the Hardest. American Library Association Midwinter Conference, Seattle, WA, January 27, 2013. <https://oaktrust.library.tamu.edu/handle/1969.1/151528>
 
@@ -222,7 +222,7 @@ Force11 - The Future of Research Communication and e-Scholarship (January 2018 -
 
 ### Editorial Board Member
 
-Library Resources and Technical Services (LRTS) 2017-1019
+Library Resources and Technical Services (LRTS) 2017-2019
 
 
 ### Teaching/Workshops 

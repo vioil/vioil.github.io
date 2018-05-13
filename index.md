@@ -249,7 +249,7 @@ Workshop Instructor: VIVO for beginners – running a local VIVO installation an
 
 Course Instructor: Programming for Humanists, Initiative for Digital Humanities, Media, and Culture (IDHMC), Texas A&M University, College Station, TX, Spring Semester 2014. 
 
-Workshop Instructor, Birnbaum, David and Violeta Ilik. “The Role of XSLT in Digital Libraries, Editions, and Cultural Exhibits.” Juried Workshop. 17th International Conference on Theory and Practice of Digital Libraries (TPDL 2013), Valetta, Malta, September 22, 2013. 
+Workshop Instructor, Birnbaum, David and Violeta Ilik. “The Role of XSLT in Digital Libraries, Editions, and Cultural Exhibits.” 17th International Conference on Theory and Practice of Digital Libraries (TPDL 2013), Valetta, Malta, September 22, 2013. 
 
 Course Instructor, XSLT Book Workshop, Text Encoding Initiative Conference 2012, Texas A&M University, College Station, TX, November 6, 2012.
 

@@ -18,7 +18,7 @@ title: Violeta Ilik
 Master of Library and Information Science, University of North Texas, Denton, TX
 	Major: Library and Information Science
 
-Master of Arts Management, Doane College, Crete, NE
+Master of Arts Management, Doane University, Crete, NE
 	Major: Management
 
 Bachelor of Science, Ss. Cyril and Methodius University, Skopje, Macedonia 

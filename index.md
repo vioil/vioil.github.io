@@ -201,7 +201,7 @@ NASIG, Program Planning Committee, Member 2012 – present
 
 OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013- current
 
-Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 -
+[Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 -](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
 
 Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee 2014-2015](https://tdl.org/2014/10/save-date-tcdl-2015-april-2728-austin/)
 
@@ -226,6 +226,9 @@ Force11 - The Future of Research Communication and e-Scholarship (January 2018 -
 
 Library Resources and Technical Services (LRTS) 2017-2019
 
+### VIVO Leadership Group
+
+[VIVO - Connect - Share - Discover (2018-)](https://wiki.duraspace.org/display/VIVO/VIVO+Leadership+Group)
 
 ### Teaching/Workshops 
 

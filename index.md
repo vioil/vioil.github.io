@@ -211,6 +211,8 @@ Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee
 
 VIVO Camp Task Force Instructor, 2016 –
 
+VIVO 2018 Sponsorship Lead, September 2017 - March 2018
+
 [VIVO Ontology Improvement Task Force](https://wiki.duraspace.org/display/VIVO/Ontology+Improvement+Task+Force), 2017 -
 
 VIVO 2017 Conference Program Chair
@@ -236,7 +238,7 @@ Library Resources and Technical Services (LRTS) 2017-2019
 
 ### VIVO Steering Group
 
-[VIVO - Connect - Share - Discover (2018-)(https://wiki.duraspace.org/display/VIVO/VIVO+Steering+Group)
+[VIVO - Connect - Share - Discover (2018-)](https://wiki.duraspace.org/display/VIVO/VIVO+Steering+Group)
 
 ### Teaching/Workshops 
 

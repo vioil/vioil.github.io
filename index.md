@@ -75,6 +75,8 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
+Ilik, Violeta. (2018) "Implementing Semantic Discovery for Researchers: VIVO." NFAIS Virtual Workshop: Getting Your Content Ready for Semantic Search and A&I” Wednesday, August 29, 2018 <https://nfais.memberclicks.net/index.php?option=com_mc&view=mc&mcid=72&eventId=547970&orgId=nfais&recurringId=0>
+
 Ilik, Violeta and Koster, Lukas. (2018) "Information Sharing Pipeline" NASIG 2018 Conference, Atlanta, GA, June 9, 2018. <https://www.slideshare.net/violetaili/information-sharing-pipeline>
 
 Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 2", American Library Association, March 14, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/031418 Document ID: a85aec5a-6e5a-4418-94b1-95a598fbc38a <http://downloads.alcts.ala.org/ce/20180314_VIVO_and_the_Role_of_Librarians_Part_2_Slides.pdf>

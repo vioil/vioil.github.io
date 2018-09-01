@@ -75,17 +75,17 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
-Ilik, Violeta. (2018) "Implementing Semantic Discovery for Researchers: VIVO." NFAIS Virtual Workshop: Getting Your Content Ready for Semantic Search and A&I” Wednesday, August 29, 2018 <https://nfais.memberclicks.net/index.php?option=com_mc&view=mc&mcid=72&eventId=547970&orgId=nfais&recurringId=0>
+Ilik, Violeta. (2018) "Implementing Semantic Discovery for Researchers: VIVO." NFAIS Virtual Workshop: Getting Your Content Ready for Semantic Search and A&I” Wednesday, August 29, 2018. [Slides](https://nfais.memberclicks.net/index.php?option=com_mc&view=mc&mcid=72&eventId=547970&orgId=nfais&recurringId=0)
 
-Ilik, Violeta and Koster, Lukas. (2018) "Information Sharing Pipeline" NASIG 2018 Conference, Atlanta, GA, June 9, 2018. <https://www.slideshare.net/violetaili/information-sharing-pipeline>
+Ilik, Violeta and Koster, Lukas. (2018) "Information Sharing Pipeline" NASIG 2018 Conference, Atlanta, GA, June 9, 2018. [Slides](https://www.slideshare.net/violetaili/information-sharing-pipeline)
 
-Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 2", American Library Association, March 14, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/031418 Document ID: a85aec5a-6e5a-4418-94b1-95a598fbc38a <http://downloads.alcts.ala.org/ce/20180314_VIVO_and_the_Role_of_Librarians_Part_2_Slides.pdf>
+Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 2", American Library Association, March 14, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/031418 Document ID: a85aec5a-6e5a-4418-94b1-95a598fbc38a [Slides](http://downloads.alcts.ala.org/ce/20180314_VIVO_and_the_Role_of_Librarians_Part_2_Slides.pdf)
 
-Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 1", American Library Association, February 28, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/022818 Document ID: ac928668-00f1-4862-91e1-4cef132026a1 <http://downloads.alcts.ala.org/ce/20180226_VIVO_and_the_Role_of_Librarians_Part_1_Slides.pdf>
+Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 1", American Library Association, February 28, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/022818 Document ID: ac928668-00f1-4862-91e1-4cef132026a1 [Slides](http://downloads.alcts.ala.org/ce/20180226_VIVO_and_the_Role_of_Librarians_Part_1_Slides.pdf)
 
-Ilik, Violeta. (2017) Lightning Talk: Real Time Information Channel. SWIB 2017 Conference. Hamburg, Germany, December 5, 2017. <http://swib.org/swib17/slides/ilik-real-time-info-channel.pdf>
+Ilik, Violeta. (2017) Lightning Talk: Real Time Information Channel. SWIB 2017 Conference. Hamburg, Germany, December 5, 2017. [Slides](http://swib.org/swib17/slides/ilik-real-time-info-channel.pdf)
 
-Ilik, Violeta. (2017) Real Time Information Channel. FORCE 2017 Conference. Berlin, Germany, October 25, 2017. <https://doi.org/10.6084/m9.figshare.5550166.v1>
+Ilik, Violeta. (2017) Real Time Information Channel. FORCE 2017 Conference. Berlin, Germany, October 25, 2017. [Slides](https://doi.org/10.6084/m9.figshare.5550166.v1)
 
 Ilik, Violeta. (2017) Managing Identities and Entities. University Libraries Colloquium Series. Stony Brook, NY, September 21, 2017.
 
@@ -189,6 +189,8 @@ ALCTS Scholarly Communication Interest Group Vice-Chair/Chair, 2015-2017
 
 ALA, ALCTS, Continuing Resources, Committee on Holdings Information, 2013 – 2017
 
+[FORCE11 Sponsorship Committee Lead for the 2018 Conference](https://www.force11.org/meetings/force2018/committee/force2018-committees)
+
 FORCE11  Program Planning Committee Member for the 2017 Conference 
 
 FORCE11 Program Planning Committee Member for the 2016 Conference, April 2016 in Portland, Oregon: 
@@ -231,6 +233,10 @@ Library Resources and Technical Services (LRTS) 2017-2019
 ### VIVO Leadership Group
 
 [VIVO - Connect - Share - Discover (2018-)](https://wiki.duraspace.org/display/VIVO/VIVO+Leadership+Group)
+
+### VIVO Steering Group
+
+[VIVO - Connect - Share - Discover (2018-)(https://wiki.duraspace.org/display/VIVO/VIVO+Steering+Group)
 
 ### Teaching/Workshops 
 

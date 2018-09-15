@@ -7,6 +7,7 @@ title: Violeta Ilik
 
 ### Head of Digital Collections and Preservation Systems
 #### Columbia University
+##### ilik.violeta at gmail.com
 
 
 <span about="" prefix="foaf: http://xmlns.com/foaf/0.1/ owl: http://www.w3.org/2002/07/owl#" typeof="foaf:PersonalProfileDocument" rel="foaf:primaryTopic"><span about="https://vioil.github.io/#i" typeof="foaf:Person"><span property="foaf:name" content="Violeta Ilik"></span><a href="https://orcid.org/0000-0003-2588-3084" target="orcid.widget" rel="noopener noreferrer owl:sameAs" style="vertical-align:top;"><img about="https://vioil.github.io/#i" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon" />orcid.org/0000-0003-2588-3084</a><span rel="foaf:homepage" resource="https://vioil.github.io/"></span><span rel="foaf:img" resource="https://avatars1.githubusercontent.com/u/3239996"></span><span rel="foaf:knows" resource="http://csarven.ca/#i"></span></span></span>
@@ -42,9 +43,9 @@ Library Specialist I-III, Texas A&M University Libraries, November 2007 - Februa
 
 Ilik, Violeta, and Lukas Koster. 2018. “Information Sharing Pipeline.” OSF Preprints. August 1. <https://dx.doi.org/10.31219/osf.io/hbwf8>
 
-Ilik,Violeta, Piotr Hebal, Anton Olson, Susan Wishnetsky, Joelen Pastva, Ramune Kubilius, Jonathan Shank, Karen Gutzman, Margarita Chung, and Kristi Holmes. DigitalHub: A Repository Focused on the Future. Medical Reference Services Quarterly, 37:1, p. 31-42. Feb. 2018. <https://dx.doi.org/10.1080/02763869.2018.1404386>
+Ilik, Violeta, Piotr Hebal, Anton Olson, Susan Wishnetsky, Joelen Pastva, Ramune Kubilius, Jonathan Shank, Karen Gutzman, Margarita Chung, and Kristi Holmes. DigitalHub: A Repository Focused on the Future. Medical Reference Services Quarterly, 37:1, p. 31-42. Feb. 2018. <https://dx.doi.org/10.1080/02763869.2018.1404386>
 
-Ilik Violeta, Conlon Michael, Triggs Graham, White Marijane, Javed Muhammad, Brush Matthew, Gutzman Karen, Essaid Shahim, Friedman Paul, Porter Simon, Szomszor Martin, Haendel Melissa Anne, Eichmann David, Holmes Kristi L. (2018). "OpenVIVO: Transparency in Scholarship." Frontiers in Research Metrics and Analytics, v.2, March 2018. ISSN 2504-0537. <https://doi.org/10.3389/frma.2017.00012> 
+Ilik Violeta, Michael Conlon, Graham Triggs, Marijane  White, Muhammad Javed, Matthew Brush, Karen Gutzman, Shahim Essaid, Paul Friedman, Simon Porter, Martin Szomszor, Melissa Anne Haendel, David Eichmann, Kristi L Holmes. (2018). "OpenVIVO: Transparency in Scholarship." Frontiers in Research Metrics and Analytics, v.2, March 2018. ISSN 2504-0537. <https://doi.org/10.3389/frma.2017.00012> 
 
 Ilik, Violeta, Michael Conlon, Graham Triggs, Melissa A Haendel, and Kristi L Holmes. 2017. “OpenVIVO: Transparency in Scholarship." Open Science Framework. October 1. <https://dx.doi.org/10.17605/OSF.IO/5N2TQ> [preprint]. Original draft on Overleaf in LaTeX: <https://www.overleaf.com/read/wbzvhfqmxfdg>
 
@@ -127,7 +128,7 @@ Ilik, Violeta. (2014). Distributed Person Data - NISO Virtual Conference: Can't 
 
 Haendel, Melissa, Lowe, Brian, and Ilik, Violeta. (2014). The Case For Stable VIVO URIs - VIVO/SciTS Conference, Austin, TX, August 8, 2014. <https://www.slideshare.net/violetaili/vivo-bib-final>
 
-Chiang, Katherine, Holmes, Kristi, Ilik, Violeta and Shanahan, Christopher. (2014). Promoting ORCID Adoption in the Academic Institutional Ecosystem: Progress Reports from Adoption & Integration Partners - VIVO/SciTS Conference, Austin, TX, August 7, 2014.
+Chiang, Katherine, Holmes, Kristi, Ilik, Violeta, and Shanahan, Christopher. (2014). Promoting ORCID Adoption in the Academic Institutional Ecosystem: Progress Reports from Adoption & Integration Partners - VIVO/SciTS Conference, Austin, TX, August 7, 2014.
 
 Rademaker, Alexandre and Ilik, Violeta. (2014). Using OAI-PMH protocol for Data Ingest into VIVO Instances - VIVO/SciTS Conference, Austin, TX, August 7, 2014. <https://arademaker.github.io/vivo-2014-oai/#landing-slide>
 

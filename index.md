@@ -212,6 +212,8 @@ OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013- c
 
 Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee 2014-2015](https://tdl.org/2014/10/save-date-tcdl-2015-april-2728-austin/)
 
+VIVO 2019 Conference Chair
+
 VIVO Camp Task Force Instructor, 2016 –
 
 VIVO 2018 Sponsorship Lead, September 2017 - March 2018
@@ -244,6 +246,8 @@ Library Resources and Technical Services (LRTS) 2017-2019
 [VIVO - Connect - Share - Discover (2018-)](https://wiki.duraspace.org/display/VIVO/VIVO+Steering+Group)
 
 ### Teaching/Workshops 
+
+Instructor: Mike Conlon, Violeta Ilik, Huda Kahn, and Benjamin Gross: VIVO Camp 2018, New York, NY, October 18-20, 2018.
 
 Instructor: Mike Conlon, Violeta Ilik, Paul Albert, and Benjamin Gross: VIVO Camp 2018, La Jolla, CA, April 5-7, 2018.
 

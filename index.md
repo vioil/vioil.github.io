@@ -216,9 +216,11 @@ VIVO 2019 Conference Chair
 
 VIVO Camp Task Force Instructor, 2016 –
 
+VIVO [Ontology Interest Group](https://wiki.duraspace.org/pages/viewpage.action?pageId=108757225), 2018 -
+
 VIVO 2018 Sponsorship Lead, September 2017 - March 2018
 
-[VIVO Ontology Improvement Task Force](https://wiki.duraspace.org/display/VIVO/Ontology+Improvement+Task+Force), 2017 -
+[VIVO Ontology Improvement Task Force](https://wiki.duraspace.org/display/VIVO/Ontology+Improvement+Task+Force), 2016 - 2018
 
 VIVO 2017 Conference Program Chair
 

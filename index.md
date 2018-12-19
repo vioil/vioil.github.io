@@ -197,8 +197,10 @@ ALA, ALCTS, Continuing Resources, Committee on Holdings Information, 2013 – 20
 FORCE11  Program Planning Committee Member for the 2017 Conference 
 
 FORCE11 Program Planning Committee Member for the 2016 Conference, April 2016 in Portland, Oregon: 
-Co-Chair of the Demo and Poster Sessions
-Code of Conduct Working Group Lead - <https://www.force11.org/meetings/force2016/code-conduct>
+
+*Co-Chair of the Demo and Poster Sessions
+
+*Code of Conduct Working Group Lead - <https://www.force11.org/meetings/force2016/code-conduct>
 
 NASIG, Program Planning Committee, Chair 2017-2018
 
@@ -212,7 +214,7 @@ OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013- c
 
 Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee 2014-2015](https://tdl.org/2014/10/save-date-tcdl-2015-april-2728-austin/)
 
-VIVO 2019 Conference Chair
+[VIVO 2019 Conference Chair](http://vivoconference.org/)
 
 VIVO Camp Task Force Instructor, 2016 –
 

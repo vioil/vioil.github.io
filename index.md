@@ -198,9 +198,9 @@ FORCE11  Program Planning Committee Member for the 2017 Conference
 
 FORCE11 Program Planning Committee Member for the 2016 Conference, April 2016 in Portland, Oregon: 
 
-*Co-Chair of the Demo and Poster Sessions
+* Co-Chair of the Demo and Poster Sessions
 
-*Code of Conduct Working Group Lead - <https://www.force11.org/meetings/force2016/code-conduct>
+* [Code of Conduct Working Group Lead[(https://www.force11.org/meetings/force2016/code-conduct)
 
 NASIG, Program Planning Committee, Chair 2017-2018
 

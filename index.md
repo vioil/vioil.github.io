@@ -43,7 +43,7 @@ Library Specialist I-III, Texas A&M University Libraries, November 2007 - Februa
 
 Ilik, Violeta, and Lukas Koster. 2018. “Information Sharing Pipeline.” OSF Preprints. August 1. <https://dx.doi.org/10.31219/osf.io/hbwf8>
 
-Ilik, Violeta, Piotr Hebal, Anton Olson, Susan Wishnetsky, Joelen Pastva, Ramune Kubilius, Jonathan Shank, Karen Gutzman, Margarita Chung, and Kristi Holmes. DigitalHub: A Repository Focused on the Future. Medical Reference Services Quarterly, 37:1, p. 31-42. Feb. 2018. <https://dx.doi.org/10.1080/02763869.2018.1404386>
+Ilik, Violeta, Piotr Hebal, Anton Olson, Susan Wishnetsky, Joelen Pastva, Ramune Kubilius, Jonathan Shank, Karen Gutzman, Margarita Chung, and Kristi Holmes. DigitalHub: A Repository Focused on the Future. Medical Reference Services Quarterly, 37:1, p. 31-42. Feb. 2018. <https://dx.doi.org/10.1080/02763869.2018.1404386> Open Access copy on PubMed Central: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6192248/>
 
 Ilik Violeta, Michael Conlon, Graham Triggs, Marijane  White, Muhammad Javed, Matthew Brush, Karen Gutzman, Shahim Essaid, Paul Friedman, Simon Porter, Martin Szomszor, Melissa Anne Haendel, David Eichmann, Kristi L Holmes. (2018). "OpenVIVO: Transparency in Scholarship." Frontiers in Research Metrics and Analytics, v.2, March 2018. ISSN 2504-0537. <https://doi.org/10.3389/frma.2017.00012> 
 

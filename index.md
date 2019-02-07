@@ -192,6 +192,8 @@ ALCTS Scholarly Communication Interest Group Vice-Chair/Chair, 2015-2017
 
 ALA, ALCTS, Continuing Resources, Committee on Holdings Information, 2013 – 2017
 
+[FORCE11 Fundraising Committee](https://www.force11.org/group/force11-fundraising-committee), 2019 - 
+
 [FORCE11 Sponsorship Committee Lead for the 2018 Conference](https://www.force11.org/meetings/force2018/committee/force2018-committees)
 
 FORCE11  Program Planning Committee Member for the 2017 Conference 

@@ -43,7 +43,8 @@ Library Specialist I-III, Texas A&M University Libraries, November 2007 - Februa
 
 Conlon, Michael; Woods, Andrew; Triggs, Graham; O'Flinn, Ralph; Javed, Muhammed; Blake, Jim; Gross, Benjamin; Ahmad, Qazi Azim Ijaz; Ali, Sabih; Barber, Martin; Elsborg, Don; Fofack, Kitio; Hauschke, Christian; Ilik, Violeta; Khan, Huda; Lawless, Ted; Levernier, Jacob; Lowe, Brian; Martin, Jose, Luis; McKay, Steve; Porter, Simon; Walther, Tatiana; White, Marijane; Wolff, Stefan; Younes, Rebecca. (2019, April 14). VIVO software 1.10.0 release (Version 1.10.0). Zenodo. http://doi.org/10.5281/zenodo.2639714
 
-Ilik, Violeta, and Lukas Koster. 2018. “Information Sharing Pipeline.” OSF Preprints. August 1. <https://dx.doi.org/10.31219/osf.io/hbwf8>
+Violeta Ilik & Lukas Koster (2019) Information-Sharing Pipeline, The Serials Librarian, DOI: 10.1080/0361526X.2019.1583045
+Pre-print: Ilik, Violeta, and Lukas Koster. 2018. “Information Sharing Pipeline.” OSF Preprints. August 1. <https://dx.doi.org/10.31219/osf.io/hbwf8>
 
 Ilik, Violeta, Piotr Hebal, Anton Olson, Susan Wishnetsky, Joelen Pastva, Ramune Kubilius, Jonathan Shank, Karen Gutzman, Margarita Chung, and Kristi Holmes. DigitalHub: A Repository Focused on the Future. Medical Reference Services Quarterly, 37:1, p. 31-42. Feb. 2018. <https://dx.doi.org/10.1080/02763869.2018.1404386> Open Access copy on PubMed Central: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6192248/>
 
@@ -275,7 +276,7 @@ Workshop Instructor: Violeta Ilik, Northwestern University, Alexandre Rademaker,
 
 Workshop Instructor: Modeling Data with Karma – Data Integration Tool (semantic web compliant data for VIVO 1.6 and 1.7 instances) - VIVO/SciTS Conference, Austin, TX, August 6, 2014.
 
-Workshop Instructor: VIVO for beginners – running a local VIVO installation and importing research information data - Lukas Koster, Ina Blümel, Gabriel Birke*, Violeta Ilik*, and Ted Lawless* - ELAG Conference, Bath, UK June 10-13, 2014.
+Workshop Instructor: VIVO for beginners – running a local VIVO installation and importing research information data - Lukas Koster, Ina Blümel, Gabriel Birke, Violeta Ilik, and Ted Lawless - ELAG Conference, Bath, UK June 10-13, 2014.
 
 Course Instructor: Programming for Humanists, Initiative for Digital Humanities, Media, and Culture (IDHMC), Texas A&M University, College Station, TX, Spring Semester 2014. 
 

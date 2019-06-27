@@ -81,13 +81,15 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
+Ilik, Violeta; Mendenhall, Timothy R.; Sokolova, Dina V.; Wacker, Melanie; Whelan, Alexander J. (2019) "Unhiding the audiovisual past at Columbia University Libraries" ALA 2019 Conference, Washington, DC, June 24, 2019. <https://doi.org/10.7916/d8-s202-ha69>
+
 Ilik, Violeta. (2018) "Implementing Semantic Discovery for Researchers: VIVO." NFAIS Virtual Workshop: Getting Your Content Ready for Semantic Search and A&I” Wednesday, August 29, 2018. [Slides](https://nfais.memberclicks.net/index.php?option=com_mc&view=mc&mcid=72&eventId=547970&orgId=nfais&recurringId=0)
 
-Ilik, Violeta and Koster, Lukas. (2018) "Information Sharing Pipeline" NASIG 2018 Conference, Atlanta, GA, June 9, 2018. [Slides](https://www.slideshare.net/violetaili/information-sharing-pipeline)
+Ilik, Violeta and Koster, Lukas. (2018) "Information Sharing Pipeline" NASIG 2018 Conference, Atlanta, GA, June 9, 2018. [Slides](https://www.slideshare.net/violetaili/information-sharing-pipeline).
 
-Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 2", American Library Association, March 14, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/031418 Document ID: a85aec5a-6e5a-4418-94b1-95a598fbc38a [Slides](http://downloads.alcts.ala.org/ce/20180314_VIVO_and_the_Role_of_Librarians_Part_2_Slides.pdf)
+Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 2", American Library Association, March 14, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/031418 Document ID: a85aec5a-6e5a-4418-94b1-95a598fbc38a [Slides](http://downloads.alcts.ala.org/ce/20180314_VIVO_and_the_Role_of_Librarians_Part_2_Slides.pdf).
 
-Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 1", American Library Association, February 28, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/022818 Document ID: ac928668-00f1-4862-91e1-4cef132026a1 [Slides](http://downloads.alcts.ala.org/ce/20180226_VIVO_and_the_Role_of_Librarians_Part_1_Slides.pdf)
+Ilik, Violeta. (2018) "VIVO and the Role of Librarians, Part 1", American Library Association, February 28, 2018. http://www.ala.org/alcts/confevents/upcoming/webinar/022818 Document ID: ac928668-00f1-4862-91e1-4cef132026a1 [Slides](http://downloads.alcts.ala.org/ce/20180226_VIVO_and_the_Role_of_Librarians_Part_1_Slides.pdf).
 
 Ilik, Violeta. (2017) Lightning Talk: Real Time Information Channel. SWIB 2017 Conference. Hamburg, Germany, December 5, 2017. [Slides](http://swib.org/swib17/slides/ilik-real-time-info-channel.pdf)
 

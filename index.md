@@ -41,7 +41,8 @@ Library Specialist I-III, Texas A&M University Libraries, November 2007 - Februa
 
 #### Refereed Publications (articles, proceedings)
 
-Conlon, Michael; Woods, Andrew; Triggs, Graham; O'Flinn, Ralph; Javed, Muhammed; Blake, Jim; Gross, Benjamin; Ahmad, Qazi Azim Ijaz; Ali, Sabih; Barber, Martin; Elsborg, Don; Fofack, Kitio; Hauschke, Christian; Ilik, Violeta; Khan, Huda; Lawless, Ted; Levernier, Jacob; Lowe, Brian; Martin, Jose, Luis; McKay, Steve; Porter, Simon; Walther, Tatiana; White, Marijane; Wolff, Stefan; Younes, Rebecca. (2019, April 14). VIVO software 1.10.0 release (Version 1.10.0). Zenodo. http://doi.org/10.5281/zenodo.2639714
+Conlon et al., (2019). VIVO: a system for research discovery. Journal of Open Source Software, 4(39), 1182, <https://doi.org/10.21105/joss.01182>
+Conlon, Michael; Woods, Andrew; Triggs, Graham; O'Flinn, Ralph; Javed, Muhammed; Blake, Jim; Gross, Benjamin; Ahmad, Qazi Azim Ijaz; Ali, Sabih; Barber, Martin; Elsborg, Don; Fofack, Kitio; Hauschke, Christian; Ilik, Violeta; Khan, Huda; Lawless, Ted; Levernier, Jacob; Lowe, Brian; Martin, Jose, Luis; McKay, Steve; Porter, Simon; Walther, Tatiana; White, Marijane; Wolff, Stefan; Younes, Rebecca. (2019, April 14). VIVO software 1.10.0 release (Version 1.10.0). Zenodo. <http://doi.org/10.5281/zenodo.2639714>
 
 Violeta Ilik & Lukas Koster (2019) Information-Sharing Pipeline, The Serials Librarian, DOI: 10.1080/0361526X.2019.1583045
 Pre-print: Ilik, Violeta, and Lukas Koster. 2018. “Information Sharing Pipeline.” OSF Preprints. August 1. <https://dx.doi.org/10.31219/osf.io/hbwf8>

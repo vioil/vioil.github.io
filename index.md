@@ -85,8 +85,6 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 		
 Conlon, Michael; Ilik, Violeta; Lowe, Brian; Hauschke, Christian; White, Marijane; Javed, Muhammed; et al. (2019): VIVO Ontology Version 2. 10th International VIVO Conference, September 5, 2019. Podgorica, Montenegro. figshare. Presentation. <https://doi.org/10.6084/m9.figshare.9771701.v1>
 
-Conlon, Michael; Ilik, Violeta; Lowe, Brian; Hauschke, Christian; White, Marijane; Javed, Muhammed; et al. (2019): Identifying Ontological Domains Related to VIVO. 10th International VIVO Conference, September 5, 2019. Podgorica, Montenegro. figshare. Poster. <https://doi.org/10.6084/m9.figshare.9756770.v1> 
-
 Van de Sompel, Herbert; Capadisli, Sarven; Ilik, Violeta; Conlon, Michael; Verborgh, Ruben. (2019): Semantic Cross-Site Search for VIVO. 10th International VIVO Conference, September 6, 2019. Podgorica, Montenegro. Panel. <https://vivoconference.org/vivo2019/schedule/#session-29>
 
 Ilik, Violeta; Mendenhall, Timothy R.; Sokolova, Dina V.; Wacker, Melanie; Whelan, Alexander J. (2019) "Unhiding the audiovisual past at Columbia University Libraries" ALA 2019 Conference, Washington, DC, June 24, 2019. <https://doi.org/10.7916/d8-s202-ha69>
@@ -168,6 +166,9 @@ Ilik, Violeta.  (2013). Linked data: The First Step is the Hardest. American Lib
 Ilik, Violeta.  (2012). Challenges of Displaying Metadata from Voyager, SFX, Metalib & Primo. Ex Libris Northeast Users Group (ENUG) Conference, Ithaca, NY, October 18, 2012.
 
 #### Posters
+
+
+Conlon, Michael; Ilik, Violeta; Lowe, Brian; Hauschke, Christian; White, Marijane; Javed, Muhammed; et al. (2019): Identifying Ontological Domains Related to VIVO. 10th International VIVO Conference, September 5, 2019. Podgorica, Montenegro. figshare. Poster. <https://doi.org/10.6084/m9.figshare.9756770.v1> 
 
 Ilik, Violeta, and Kristi Lee Holmes. We Built it and They Came! Building a Repository Solution for the Future. MLA 2017, Seattle, WA, May 30, 2017. Galter Health Sciences Library, 2017. <http://dx.doi.org/10.18131/G3S32R>
 

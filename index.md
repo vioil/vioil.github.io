@@ -249,9 +249,13 @@ VIVO 2016 Conference Program Co-Chair
 VIVO 2015 Program Planning Committee and Session Chair
 
 
+### Board co-chair
+
+Co-chair of the Executive Board of Directors: FORCE11 - The Future of Research Communication and e-Scholarship (October 2019 -)
+
 ### Board Member
 
-Force11 - The Future of Research Communication and e-Scholarship (January 2018 - January 2021)
+FORCE11 - The Future of Research Communication and e-Scholarship (January 2018 -)
 
 ### Editorial Board Member
 

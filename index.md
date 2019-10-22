@@ -83,6 +83,8 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
+Ilik, Violeta; Luna Lucero, Brian; Mendenhall, Timothy R.; Wacker, Melanie; Whelan, Alexander J. (alphabetical order) (2019): Making Software into a Program: Columbia University Libraries' Hyacinth User Group. DLF Forum, October 14, 2019. Tampa, Florida. <https://doi.org/10.7916/d8-2p4w-0t69>
+
 Conlon, Michael; Ilik, Violeta; Lowe, Brian; Hauschke, Christian; White, Marijane; Javed, Muhammed; et al. (2019): VIVO Ontology Version 2. 10th International VIVO Conference, September 5, 2019. Podgorica, Montenegro. figshare. Presentation. <https://doi.org/10.6084/m9.figshare.9771701.v1>
 
 Van de Sompel, Herbert; Capadisli, Sarven; Ilik, Violeta; Conlon, Michael; Verborgh, Ruben. (2019): Semantic Cross-Site Search for VIVO. 10th International VIVO Conference, September 6, 2019. Podgorica, Montenegro. Panel. <https://vivoconference.org/vivo2019/schedule/#session-29>

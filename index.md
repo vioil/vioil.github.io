@@ -222,11 +222,13 @@ FORCE11 Program Planning Committee Member for the 2016 Conference, April 2016 in
 
 * [Code of Conduct Working Group Lead](https://www.force11.org/meetings/force2016/code-conduct)
 
+Knowledge Graph Conference Organizing Committee, Workshop and Tutorials Chair, 2020 
+
 NASIG, Program Planning Committee, Chair 2017-2018
 
 NASIG, Program Planning Committee, Vice-Chair 2016-2017
 
-NASIG, Program Planning Committee, Member 2012 – present 
+NASIG, Program Planning Committee, Member 2012 – 2018 
 
 OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013- current
 
@@ -236,7 +238,7 @@ Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee
 
 [VIVO 2019 Conference Chair](http://vivoconference.org/)
 
-VIVO Camp Task Force Instructor, 2016 –
+VIVO Camp Task Force Instructor, 2016 – 2018
 
 VIVO [Ontology Interest Group](https://wiki.duraspace.org/pages/viewpage.action?pageId=108757225), 2018 -
 
@@ -263,15 +265,15 @@ FORCE11 - The Future of Research Communication and e-Scholarship (January 2018 -
 
 ### Editorial Board Member
 
-Library Resources and Technical Services (LRTS) 2017-2019
+Library Resources and Technical Services (LRTS) 2017-2021
 
 ### VIVO Leadership Group
 
-[VIVO - Connect - Share - Discover (2018-)](https://wiki.duraspace.org/display/VIVO/VIVO+Leadership+Group)
+[VIVO - Connect - Share - Discover (2018-2019)](https://wiki.duraspace.org/display/VIVO/VIVO+Leadership+Group)
 
 ### VIVO Steering Group
 
-[VIVO - Connect - Share - Discover (2018-)](https://wiki.duraspace.org/display/VIVO/VIVO+Steering+Group)
+[VIVO - Connect - Share - Discover (2018-2019)](https://wiki.duraspace.org/display/VIVO/VIVO+Steering+Group)
 
 ### Teaching/Workshops 
 

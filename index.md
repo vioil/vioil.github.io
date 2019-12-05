@@ -269,11 +269,11 @@ Library Resources and Technical Services (LRTS) 2017-2021
 
 ### VIVO Leadership Group
 
-[VIVO - Connect - Share - Discover (2018-2019)](https://wiki.duraspace.org/display/VIVO/VIVO+Leadership+Group)
+VIVO - Connect - Share - Discover (July 2018- December 2019)
 
 ### VIVO Steering Group
 
-[VIVO - Connect - Share - Discover (2018-2019)](https://wiki.duraspace.org/display/VIVO/VIVO+Steering+Group)
+VIVO - Connect - Share - Discover (August 2018- December 2019)
 
 ### Teaching/Workshops 
 

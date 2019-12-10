@@ -41,6 +41,8 @@ Library Specialist I-III, Texas A&M University Libraries, November 2007 - Februa
 
 #### Refereed Publications (articles, proceedings)
 
+Stalberg, Erin; Riemer, John; MacEwan,Andrew; Liss, Jennifer; Ilik, Violeta; Hearn, Stephen; Godby, Jean; Frank, Paul; Durocher, Michelle and Billey, Amber. (2019) "Exploring Models for Shared Identity Management at a Global Scale: The work of the PCC Task Group on Identity Management in NACO," Cataloging & Classification Quarterly. <https://doi.org/10.1080/01639374.2019.1699880>
+
 Conlon et al., (2019). VIVO: a system for research discovery. Journal of Open Source Software, 4(39), 1182, <https://doi.org/10.21105/joss.01182>
 
 Conlon, Michael; Woods, Andrew; Triggs, Graham; O'Flinn, Ralph; Javed, Muhammed; Blake, Jim; Gross, Benjamin; Ahmad, Qazi Azim Ijaz; Ali, Sabih; Barber, Martin; Elsborg, Don; Fofack, Kitio; Hauschke, Christian; Ilik, Violeta; Khan, Huda; Lawless, Ted; Levernier, Jacob; Lowe, Brian; Martin, Jose, Luis; McKay, Steve; Porter, Simon; Walther, Tatiana; White, Marijane; Wolff, Stefan; Younes, Rebecca. (2019, April 14). VIVO software 1.10.0 release (Version 1.10.0). Zenodo. <http://doi.org/10.5281/zenodo.2639714>

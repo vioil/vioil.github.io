@@ -29,7 +29,7 @@ Bachelor of Science, Ss. Cyril and Methodius University, Skopje, Macedonia
 
 Head of Cataloging and Metadata Services, Stony Brook University Libraries, July 2017 - March 2018
 
-Head, Digital Systems and Collection Services - Northwestern University, Feinberg School of Medicine, Galter Health Sciences Library, Northwestern University Clinical and Translational Sciences Institute, November 2014 – July 2017
+Head, Digital Systems and Collection Services - Northwestern University, Feinberg School of Medicine, Northwestern University Clinical and Translational Sciences Institute, Galter Health Sciences Library, November 2014 – July 2017
 
 Assistant Professor, Texas A&M University Libraries, February 2012 – October 2014
 
@@ -226,7 +226,7 @@ FORCE11 Program Planning Committee Member for the 2016 Conference, April 2016 in
 
 * [Code of Conduct Working Group Lead](https://www.force11.org/meetings/force2016/code-conduct)
 
-Knowledge Graph Conference Organizing Committee, Workshop and Tutorials Chair, 2020 
+Knowledge Graph Conference Organizing Committee, Workshops and Tutorials Chair, 2020 
 
 NASIG, Program Planning Committee, Chair 2017-2018
 

@@ -41,6 +41,8 @@ Library Specialist I-III, Texas A&M University Libraries, November 2007 - Februa
 
 #### Refereed Publications (articles, proceedings)
 
+Durocher, Michelle; Dagher, Iman; Ilik, Violeta; Long, Chris Evin; Norris, Jeanette A.; Quintana, Isabel del Carmen; & Théroux, Manon (2020): The PCC ISNI Pilot: Exploring Identity Management on a Global, Collaborative Scale, Cataloging & Classification Quarterly. <https://doi.org/10.1080/01639374.2020.1713952> 
+
 Stalberg, Erin; Riemer, John; MacEwan,Andrew; Liss, Jennifer; Ilik, Violeta; Hearn, Stephen; Godby, Jean; Frank, Paul; Durocher, Michelle and Billey, Amber. (2019) "Exploring Models for Shared Identity Management at a Global Scale: The work of the PCC Task Group on Identity Management in NACO," Cataloging & Classification Quarterly. <https://doi.org/10.1080/01639374.2019.1699880>
 
 Conlon et al., (2019). VIVO: a system for research discovery. Journal of Open Source Software, 4(39), 1182, <https://doi.org/10.21105/joss.01182>

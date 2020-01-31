@@ -216,6 +216,8 @@ ALA, ALCTS, Continuing Resources, Committee on Holdings Information, 2013 – 20
 
 [DataCite Metadata Working Group](https://schema.datacite.org/), March 2019 - present
 
+[FORCE11 Conference Co-Chair for the 2020 Conference](https://www.force11.org/meetings/force2020)
+
 [FORCE11 Fundraising Committee](https://www.force11.org/group/force11-fundraising-committee), 2019 - 
 
 [FORCE11 Sponsorship Committee Lead for the 2018 Conference](https://www.force11.org/meetings/force2018/committee/force2018-committees)

@@ -87,6 +87,8 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
+Sokolova, Dina V.; Ilik, Violeta; Davis, Stephen P. (2019). Digital Preservation at Columbia University Libraries. Lear More Session, Columbia University Libraries. New York, NY, November 21, 2019. <https://academiccommons.columbia.edu/doi/10.7916/d8-3d1r-5515>
+
 DeVito, Jennifer A., McGivney,  Claudia, and Ilik, Violeta (2019). Leadership Strategies for Librarians. Louisiana Virtual Academic Library Conference, November 7, 2019. <https://doi.org/10.6084/m9.figshare.10274066.v1>
 
 Ilik, Violeta; Luna Lucero, Brian; Mendenhall, Timothy R.; Wacker, Melanie; Whelan, Alexander J. (alphabetical order) (2019): Making Software into a Program: Columbia University Libraries' Hyacinth User Group. DLF Forum, October 14, 2019. Tampa, Florida. <https://doi.org/10.7916/d8-2p4w-0t69>

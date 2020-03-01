@@ -49,7 +49,7 @@ Conlon et al., (2019). VIVO: a system for research discovery. Journal of Open So
 
 Conlon, Michael; Woods, Andrew; Triggs, Graham; O'Flinn, Ralph; Javed, Muhammed; Blake, Jim; Gross, Benjamin; Ahmad, Qazi Azim Ijaz; Ali, Sabih; Barber, Martin; Elsborg, Don; Fofack, Kitio; Hauschke, Christian; Ilik, Violeta; Khan, Huda; Lawless, Ted; Levernier, Jacob; Lowe, Brian; Martin, Jose, Luis; McKay, Steve; Porter, Simon; Walther, Tatiana; White, Marijane; Wolff, Stefan; Younes, Rebecca. (2019, April 14). VIVO software 1.10.0 release (Version 1.10.0). Zenodo. <http://doi.org/10.5281/zenodo.2639714>
 
-Violeta Ilik & Lukas Koster (2019) Information-Sharing Pipeline, The Serials Librarian, DOI: 10.1080/0361526X.2019.1583045
+Violeta Ilik & Lukas Koster (2019) InformationSharing Pipeline, The Serials Librarian, 76:1-4, 55-65, <https://doi.org/10.1080/0361526X.2019.1583045>
 Pre-print: Ilik, Violeta, and Lukas Koster. 2018. “Information Sharing Pipeline.” OSF Preprints. August 1. <https://dx.doi.org/10.31219/osf.io/hbwf8>
 
 Ilik, Violeta, Piotr Hebal, Anton Olson, Susan Wishnetsky, Joelen Pastva, Ramune Kubilius, Jonathan Shank, Karen Gutzman, Margarita Chung, and Kristi Holmes. DigitalHub: A Repository Focused on the Future. Medical Reference Services Quarterly, 37:1, p. 31-42. Feb. 2018. <https://dx.doi.org/10.1080/02763869.2018.1404386> Open Access copy on PubMed Central: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6192248/>
@@ -87,6 +87,10 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
+Upcoming - Conlon, Michael and Ilik, Violeta (2020). Ontology for Scholarship: Revising the VIVO Ontology. CNI Spring Meeting, March 30-31, 2020, San Diego, CA.
+
+Upcoming - Ilik, Violeta; Mendenhall, Timothy R.; Sokolova, Dina V.; Wacker, Melanie; Whelan, Alexander J. (alphabetical order) (2020). Future Proof: Preserving and Providing Access to Columbia's Audio Visual Collections. Visual Resources Association (VRA) Annual Conference 2020, March 25, Baltimore, MD. 
+
 Sokolova, Dina; Ilik, Violeta; Davis, Stephen P. (2019). Digital Preservation at Columbia University Libraries. Lear More Session, Columbia University Libraries. New York, NY, November 21, 2019. <https://academiccommons.columbia.edu/doi/10.7916/d8-3d1r-5515>
 
 DeVito, Jennifer A., McGivney,  Claudia, and Ilik, Violeta (2019). Leadership Strategies for Librarians. Louisiana Virtual Academic Library Conference, November 7, 2019. <https://doi.org/10.6084/m9.figshare.10274066.v1>

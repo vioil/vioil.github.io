@@ -87,11 +87,11 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
-Upcoming - Conlon, Michael and Ilik, Violeta (2020). Ontology for Scholarship: Revising the VIVO Ontology. CNI Spring Meeting, March 30-31, 2020, San Diego, CA.
+Conlon, Michael and Ilik, Violeta (2020). Ontology for Scholarship: Revising the VIVO Ontology. CNI Spring Meeting, March 30-31, 2020, San Diego, CA. Presentations moved online due to COVID-19.
 
 Upcoming - Ilik, Violeta; Mendenhall, Timothy R.; Sokolova, Dina V.; Wacker, Melanie; Whelan, Alexander J. (alphabetical order) (2020). Future Proof: Preserving and Providing Access to Columbia's Audio Visual Collections. Visual Resources Association (VRA) Annual Conference 2020, March 25, Baltimore, MD. 
 
-Conlon, Michael; Ilik, Violeta; Lowe, Brian; Hauschke, Christian; White, Marijane (2020): Ontological Domains for Representing Scholarship. U.S. Semantics Technology Symposium on March 10 in Raleigh, NC. Poster. https://doi.org/10.6084/m9.figshare.11961699.v1
+Conlon, Michael; Ilik, Violeta; Lowe, Brian; Hauschke, Christian; White, Marijane (2020): Ontological Domains for Representing Scholarship. U.S. Semantics Technology Symposium, March 10 2020, Raleigh, NC. Poster. <https://doi.org/10.6084/m9.figshare.11961699.v1>
 
 Sokolova, Dina; Ilik, Violeta; Davis, Stephen P. (2019). Digital Preservation at Columbia University Libraries. Lear More Session, Columbia University Libraries. New York, NY, November 21, 2019. <https://academiccommons.columbia.edu/doi/10.7916/d8-3d1r-5515>
 

@@ -49,7 +49,7 @@ Conlon et al., (2019). VIVO: a system for research discovery. Journal of Open So
 
 Conlon, Michael; Woods, Andrew; Triggs, Graham; O'Flinn, Ralph; Javed, Muhammed; Blake, Jim; Gross, Benjamin; Ahmad, Qazi Azim Ijaz; Ali, Sabih; Barber, Martin; Elsborg, Don; Fofack, Kitio; Hauschke, Christian; Ilik, Violeta; Khan, Huda; Lawless, Ted; Levernier, Jacob; Lowe, Brian; Martin, Jose, Luis; McKay, Steve; Porter, Simon; Walther, Tatiana; White, Marijane; Wolff, Stefan; Younes, Rebecca. (2019, April 14). VIVO software 1.10.0 release (Version 1.10.0). Zenodo. <http://doi.org/10.5281/zenodo.2639714>
 
-Violeta Ilik & Lukas Koster (2019) InformationSharing Pipeline, The Serials Librarian, 76:1-4, 55-65, <https://doi.org/10.1080/0361526X.2019.1583045>
+Violeta Ilik & Lukas Koster (2019) Information Sharing Pipeline, The Serials Librarian, 76:1-4, 55-65, <https://doi.org/10.1080/0361526X.2019.1583045>
 Pre-print: Ilik, Violeta, and Lukas Koster. 2018. “Information Sharing Pipeline.” OSF Preprints. August 1. <https://dx.doi.org/10.31219/osf.io/hbwf8>
 
 Ilik, Violeta, Piotr Hebal, Anton Olson, Susan Wishnetsky, Joelen Pastva, Ramune Kubilius, Jonathan Shank, Karen Gutzman, Margarita Chung, and Kristi Holmes. DigitalHub: A Repository Focused on the Future. Medical Reference Services Quarterly, 37:1, p. 31-42. Feb. 2018. <https://dx.doi.org/10.1080/02763869.2018.1404386> Open Access copy on PubMed Central: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6192248/>
@@ -224,7 +224,7 @@ ALA, ALCTS, Continuing Resources, Committee on Holdings Information, 2013 – 20
 
 [DataCite Metadata Working Group](https://schema.datacite.org/), March 2019 - present
 
-[FORCE11 Conference Co-Chair for the 2020 Conference](https://www.force11.org/meetings/force2020)
+[FORCE11 Conference Co-Chair for the 2021 Conference](https://www.force11.org/meetings/force2021)
 
 [FORCE11 Fundraising Committee](https://www.force11.org/group/force11-fundraising-committee), 2019 - 
 
@@ -278,6 +278,7 @@ Co-chair of the Executive Board of Directors: FORCE11 - The Future of Research C
 ### Board Member
 
 FORCE11 - The Future of Research Communication and e-Scholarship (January 2018 -)
+FORCE11 FSCI Steering Committee member (January 2020 -)
 
 ### Editorial Board Member
 

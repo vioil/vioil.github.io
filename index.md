@@ -278,7 +278,10 @@ Co-chair of the Executive Board of Directors: FORCE11 - The Future of Research C
 ### Board Member
 
 FORCE11 - The Future of Research Communication and e-Scholarship (January 2018 -)
-FORCE11 FSCI Steering Committee member (January 2020 -)
+
+### FSCI Steering Committee
+
+FORCE11 Scholarly Communications Institute (FSCI) (January 2020 -)
 
 ### Editorial Board Member
 

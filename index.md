@@ -91,8 +91,6 @@ Conlon, Michael and Ilik, Violeta (2020). Ontology for Scholarship: Revising the
 
 Upcoming - Ilik, Violeta; Mendenhall, Timothy R.; Sokolova, Dina V.; Wacker, Melanie; Whelan, Alexander J. (alphabetical order) (2020). Future Proof: Preserving and Providing Access to Columbia's Audio Visual Collections. Visual Resources Association (VRA) Annual Conference 2020, March 25, Baltimore, MD. 
 
-Conlon, Michael; Ilik, Violeta; Lowe, Brian; Hauschke, Christian; White, Marijane (2020): Ontological Domains for Representing Scholarship. U.S. Semantics Technology Symposium, March 10 2020, Raleigh, NC. Poster. <https://doi.org/10.6084/m9.figshare.11961699.v1>
-
 Sokolova, Dina; Ilik, Violeta; Davis, Stephen P. (2019). Digital Preservation at Columbia University Libraries. Lear More Session, Columbia University Libraries. New York, NY, November 21, 2019. <https://academiccommons.columbia.edu/doi/10.7916/d8-3d1r-5515>
 
 DeVito, Jennifer A., McGivney,  Claudia, and Ilik, Violeta (2019). Leadership Strategies for Librarians. Louisiana Virtual Academic Library Conference, November 7, 2019. <https://doi.org/10.6084/m9.figshare.10274066.v1>
@@ -184,6 +182,8 @@ Ilik, Violeta.  (2012). Challenges of Displaying Metadata from Voyager, SFX, Met
 #### Posters
 
 
+Conlon, Michael; Ilik, Violeta; Lowe, Brian; Hauschke, Christian; White, Marijane (2020): Ontological Domains for Representing Scholarship. U.S. Semantics Technology Symposium, March 10 2020, Raleigh, NC. Poster. <https://doi.org/10.6084/m9.figshare.11961699.v1>
+
 Conlon, Michael; Ilik, Violeta; Lowe, Brian; Hauschke, Christian; White, Marijane; Javed, Muhammed; et al. (2019): Identifying Ontological Domains Related to VIVO. 10th International VIVO Conference, September 5, 2019. Podgorica, Montenegro. figshare. Poster. <https://doi.org/10.6084/m9.figshare.9756770.v1> 
 
 Ilik, Violeta, and Kristi Lee Holmes. We Built it and They Came! Building a Repository Solution for the Future. MLA 2017, Seattle, WA, May 30, 2017. Galter Health Sciences Library, 2017. <http://dx.doi.org/10.18131/G3S32R>
@@ -226,7 +226,7 @@ ALA, ALCTS, Continuing Resources, Committee on Holdings Information, 2013 – 20
 
 [FORCE11 Conference Co-Chair for the 2021 Conference](https://www.force11.org/meetings/force2021)
 
-[FORCE11 Fundraising Committee](https://www.force11.org/group/force11-fundraising-committee), 2019 - 
+[FORCE11 Fundraising Committee](https://www.force11.org/group/force11-fundraising-committee), 2019 
 
 [FORCE11 Sponsorship Committee Lead for the 2018 Conference](https://www.force11.org/meetings/force2018/committee/force2018-committees)
 
@@ -238,7 +238,10 @@ FORCE11 Program Planning Committee Member for the 2016 Conference, April 2016 in
 
 * [Code of Conduct Working Group Lead](https://www.force11.org/meetings/force2016/code-conduct)
 
-Knowledge Graph Conference Organizing Committee, Workshops and Tutorials Chair, 2020 
+[Knowledge Graph Conference Executive Committee](https://www.knowledgegraph.tech/the-knowledge-graph-conference-kgc/about)
+
+* Workshops and Tutorials Chair, 2020
+* Program Committee member, 2020
 
 NASIG, Program Planning Committee, Chair 2017-2018
 

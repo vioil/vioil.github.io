@@ -89,7 +89,7 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 		
 Conlon, Michael and Ilik, Violeta (2020). Ontology for Scholarship: Revising the VIVO Ontology. CNI Spring Meeting, March 30-31, 2020, San Diego, CA. Presentations moved online due to COVID-19. Talk presented on April 21, 2020. <https://doi.org/10.6084/m9.figshare.12167949.v3>
 
-Upcoming - Ilik, Violeta; Mendenhall, Timothy R.; Sokolova, Dina V.; Wacker, Melanie; Whelan, Alexander J. (alphabetical order) (2020). Future Proof: Preserving and Providing Access to Columbia's Audio Visual Collections. Visual Resources Association (VRA) Annual Conference 2020, March 25, Baltimore, MD. Presentations moved online due to COVID-19. Talk presented on June 16, 2020. <https://doi.org/10.7916/d8-jkpp-6w29>
+Ilik, Violeta; Mendenhall, Timothy R.; Sokolova, Dina V.; Wacker, Melanie; Whelan, Alexander J. (alphabetical order) (2020). Future Proof: Preserving and Providing Access to Columbia's Audio Visual Collections. Visual Resources Association (VRA) Annual Conference 2020, March 25, Baltimore, MD. Presentations moved online due to COVID-19. Talk presented on June 16, 2020. <https://doi.org/10.7916/d8-jkpp-6w29>
 
 Sokolova, Dina; Ilik, Violeta; Davis, Stephen P. (2019). Digital Preservation at Columbia University Libraries. Lear More Session, Columbia University Libraries. New York, NY, November 21, 2019. <https://academiccommons.columbia.edu/doi/10.7916/d8-3d1r-5515>
 

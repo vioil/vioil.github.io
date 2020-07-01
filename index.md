@@ -5,8 +5,8 @@ title: Violeta Ilik
 
 # Violeta Ilik
 
-### Head of Digital Collections and Preservation Systems
-#### Columbia University
+### Dean
+#### Adelphi University Libraries
 ##### ilik.violeta at gmail.com
 
 
@@ -26,6 +26,8 @@ Bachelor of Science, Ss. Cyril and Methodius University, Skopje, Macedonia
 	Major: Chemical Engineering
 
 ### Experience
+
+Head of Digital Collections and Preservation Systems, Columbia University Libraries, April 2018 - June 2020
 
 Head of Cataloging and Metadata Services, Stony Brook University Libraries, July 2017 - March 2018
 

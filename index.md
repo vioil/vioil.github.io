@@ -43,6 +43,9 @@ Library Specialist I-III, Texas A&M University Libraries, November 2007 - Februa
 
 #### Refereed Publications (articles, proceedings)
 
+
+Nicole A. Vasilevsky, Mohammad Hosseini, Samantha Teplitzky, Violeta Ilik, Ehsan Mohammadi, Juliane Schneider, Barbara Kern, Julien Colomb, Scott C. Edmunds, Karen Gutzman, Daniel S. Himmelstein, Marijane White, Britton Smith, Lisa O’Keefe, Melissa Haendel & Kristi L. Holmes (2020) Is authorship sufficient for today’s collaborative research? A call for contributor roles, Accountability in Research, <https://doi.org/10.1080/08989621.2020.1779591>
+
 Durocher, Michelle; Dagher, Iman; Ilik, Violeta; Long, Chris Evin; Norris, Jeanette A.; Quintana, Isabel del Carmen; & Théroux, Manon (2020): The PCC ISNI Pilot: Exploring Identity Management on a Global, Collaborative Scale, Cataloging & Classification Quarterly. <https://doi.org/10.1080/01639374.2020.1713952> 
 
 Stalberg, Erin; Riemer, John; MacEwan,Andrew; Liss, Jennifer; Ilik, Violeta; Hearn, Stephen; Godby, Jean; Frank, Paul; Durocher, Michelle and Billey, Amber. (2019) "Exploring Models for Shared Identity Management at a Global Scale: The work of the PCC Task Group on Identity Management in NACO," Cataloging & Classification Quarterly. <https://doi.org/10.1080/01639374.2019.1699880>

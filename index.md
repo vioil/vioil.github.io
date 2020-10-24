@@ -247,6 +247,10 @@ FORCE11 Program Planning Committee member for the 2016 Conference, April 2016 in
 
 International Society for Biocuration (ISB) Award Committee - [2020 Biocuration Career Award](https://www.biocuration.org/midori-harris-recipient-of-the-2020-biocuration-award/)
 
+Knowledge Graph Conference
+
+* Program Committee 2021
+
 [Knowledge Graph Conference](https://www.knowledgegraph.tech/the-knowledge-graph-conference-kgc/about)
 
 * Executive Committee, 2020

@@ -27,7 +27,7 @@ Bachelor of Science, Ss. Cyril and Methodius University, Skopje, Macedonia
 
 ### Experience
 
-Head of Digital Collections and Preservation Systems, Columbia University Libraries, April 2018 - June 2020
+Head of Digital Collections and Preservation Systems, Columbia University Libraries, 1, April 2018 - 30, June 2020
 
 Head of Cataloging and Metadata Services, Stony Brook University Libraries, July 2017 - March 2018
 
@@ -245,6 +245,8 @@ FORCE11 Program Planning Committee member for the 2016 Conference, April 2016 in
 
 * [Code of Conduct Working Group Lead](https://www.force11.org/meetings/force2016/code-conduct)
 
+International Society for Biocuration (ISB) Award Committee - [2020 Biocuration Career Award](https://www.biocuration.org/midori-harris-recipient-of-the-2020-biocuration-award/)
+
 [Knowledge Graph Conference Executive Committee](https://www.knowledgegraph.tech/the-knowledge-graph-conference-kgc/about)
 
 * Workshops and Tutorials Chair, 2020
@@ -307,6 +309,8 @@ VIVO - Connect - Share - Discover (July 2018- December 2019)
 VIVO - Connect - Share - Discover (August 2018- December 2019)
 
 ### Teaching/Workshops 
+
+Participant, FAIRIO - FAIR research information in Open Infrastructures, [Workshop on Interoperabiliy of Research Information](https://projects.tib.eu/fairio/workshops/interoperability/). The State Scientific Library of the Ukraine in Kyiv (SSTL) and the TIB - Leibniz Information Centre for Science and Technology. September 21, 2020 
 
 Instructor: Mike Conlon, Violeta Ilik, Huda Kahn, and Benjamin Gross: VIVO Camp 2018, New York, NY, October 18-20, 2018.
 

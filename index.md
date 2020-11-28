@@ -223,7 +223,7 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 ### Documentation of Professional Activities
 
 
-#### International and National Committees
+#### International and National Committees (alphabetical order)
 
 ALCTS/LITA Linked Library Data Interest Group Co-Chair/Chair, 2014-2016
 
@@ -248,6 +248,8 @@ FORCE11 Program Planning Committee member for the 2016 Conference, April 2016 in
 * [Code of Conduct Working Group Lead](https://www.force11.org/meetings/force2016/code-conduct)
 
 International Society for Biocuration (ISB) Award Committee - [2020 Biocuration Career Award](https://www.biocuration.org/midori-harris-recipient-of-the-2020-biocuration-award/)
+
+European Semantic Web Conference (ESWC) 2021 - [Virtual Conference Co-Chair](https://2021.eswc-conferences.org/organising-committee/)
 
 Knowledge Graph Conference
 
@@ -299,6 +301,8 @@ Co-chair of the Executive Board of Directors: FORCE11 - The Future of Research C
 
 FORCE11 - The Future of Research Communication and e-Scholarship (January 2018 -)
 
+ConnectNY - [Board of Directors](http://connectny.org/contacts/) (July 2020 - )
+
 ### FSCI Steering Committee
 
 FORCE11 Scholarly Communications Institute (FSCI) (January 2020 -)
@@ -316,6 +320,8 @@ VIVO - Connect - Share - Discover (July 2018- December 2019)
 VIVO - Connect - Share - Discover (August 2018- December 2019)
 
 ### Teaching/Workshops 
+
+Participant, FAIRIO - FAIR research information in Open Infrastructures, [Accessibility of Research Information](https://projects.tib.eu/fairio/workshops/accessibility/) The State Scientific Library of the Ukraine in Kyiv (SSTL) and the TIB - Leibniz Information Centre for Science and Technology. November 2, 2020 
 
 Participant, FAIRIO - FAIR research information in Open Infrastructures, [Workshop on Interoperabiliy of Research Information](https://projects.tib.eu/fairio/workshops/interoperability/). The State Scientific Library of the Ukraine in Kyiv (SSTL) and the TIB - Leibniz Information Centre for Science and Technology. September 21, 2020 
 

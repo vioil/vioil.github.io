@@ -247,9 +247,9 @@ FORCE11 Program Planning Committee member for the 2016 Conference, April 2016 in
 
 * [Code of Conduct Working Group Lead](https://www.force11.org/meetings/force2016/code-conduct)
 
-International Society for Biocuration (ISB) Award Committee - [2020 Biocuration Career Award](https://www.biocuration.org/midori-harris-recipient-of-the-2020-biocuration-award/)
-
 European Semantic Web Conference (ESWC) 2021 - [Virtual Conference Co-Chair](https://2021.eswc-conferences.org/organising-committee/)
+
+International Society for Biocuration (ISB) Award Committee - [2020 Biocuration Career Award](https://www.biocuration.org/midori-harris-recipient-of-the-2020-biocuration-award/)
 
 Knowledge Graph Conference
 

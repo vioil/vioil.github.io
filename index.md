@@ -233,7 +233,7 @@ ALA, ALCTS, Continuing Resources, Committee on Holdings Information, 2013 – 20
 
 [DataCite Metadata Working Group](https://schema.datacite.org/), March 2019 - present
 
-[FORCE11 Conference Co-Chair for the 2021 Conference](https://www.force11.org/meetings/force2021)
+European Semantic Web Conference (ESWC) 2021 - [Virtual Conference Co-Chair](https://2021.eswc-conferences.org/organising-committee/)
 
 [FORCE11 Fundraising Committee](https://www.force11.org/group/force11-fundraising-committee), 2019 
 
@@ -246,8 +246,6 @@ FORCE11 Program Planning Committee member for the 2016 Conference, April 2016 in
 * Co-Chair of the Demo and Poster Sessions
 
 * [Code of Conduct Working Group Lead](https://www.force11.org/meetings/force2016/code-conduct)
-
-European Semantic Web Conference (ESWC) 2021 - [Virtual Conference Co-Chair](https://2021.eswc-conferences.org/organising-committee/)
 
 International Society for Biocuration (ISB) Award Committee - [2020 Biocuration Career Award](https://www.biocuration.org/midori-harris-recipient-of-the-2020-biocuration-award/)
 
@@ -268,7 +266,7 @@ NASIG, Program Planning Committee, Vice-Chair 2016-2017
 
 NASIG, Program Planning Committee, member 2012 – 2018 
 
-OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013- current
+OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013-2018
 
 [Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 -](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
 
@@ -276,13 +274,13 @@ Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee
 
 [VIVO 2019 Conference Chair](http://vivoconference.org/)
 
-VIVO Camp Task Force Instructor, 2016 – 2018
+VIVO Camp Task Force Instructor, 2016–2018
 
 VIVO [Ontology Interest Group](https://wiki.duraspace.org/pages/viewpage.action?pageId=108757225), 2018 -
 
-VIVO 2018 Sponsorship Lead, September 2017 - March 2018
+VIVO 2018 Sponsorship Lead, September 2017-March 2018
 
-[VIVO Ontology Improvement Task Force](https://wiki.duraspace.org/display/VIVO/Ontology+Improvement+Task+Force), 2016 - 2018
+[VIVO Ontology Improvement Task Force](https://wiki.duraspace.org/display/VIVO/Ontology+Improvement+Task+Force), 2016-2018
 
 VIVO 2017 Conference Program Chair
 

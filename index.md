@@ -112,7 +112,7 @@ Van de Sompel, Herbert; Capadisli, Sarven; Ilik, Violeta; Conlon, Michael; Verbo
 
 Ilik, Violeta; Mendenhall, Timothy R.; Sokolova, Dina V.; Wacker, Melanie; Whelan, Alexander J. (2019) "Unhiding the audiovisual past at Columbia University Libraries" ALA 2019 Conference, Washington, DC, June 24, 2019. <https://doi.org/10.7916/d8-s202-ha69>
 
-Ilik, Violeta. (2018) "Implementing Semantic Discovery for Researchers: VIVO." NFAIS Virtual Workshop: Getting Your Content Ready for Semantic Search and A&I” Wednesday, August 29, 2018. [Slides](https://nfais.memberclicks.net/index.php?option=com_mc&view=mc&mcid=72&eventId=547970&orgId=nfais&recurringId=0)
+Ilik, Violeta. (2018) "Implementing Semantic Discovery for Researchers: VIVO." NFAIS Virtual Workshop: Getting Your Content Ready for Semantic Search and A&I” Wednesday, August 29, 2018. <https://doi.org/10.6084/m9.figshare.13298078.v1> 
 
 Ilik, Violeta and Koster, Lukas. (2018) "Information Sharing Pipeline" NASIG 2018 Conference, Atlanta, GA, June 9, 2018. <https://www.slideshare.net/violetaili/information-sharing-pipeline>.
 

@@ -220,6 +220,16 @@ Ilik, Violeta (2017, October 19). Real Time Information Channel [Blog post]. Ret
 
 Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <https://ilikvioleta.blogspot.com/2017/08/why-not-share.html>
 
+### Selected Projects
+
+[Carnegie Corporation of New York](https://dlc.library.columbia.edu/carnegie)
+[Columbia-Princeton Electronic Music Center Collection](https://blogs.cul.columbia.edu/spotlights/2020/07/29/columbia-princeton-electronic-music-center-collection/)
+[Digital Serlio](https://library.columbia.edu/libraries/avery/digitalserlio/about.html)
+[Hubert H. Harrison Papers](https://dlc.library.columbia.edu/hubert_h_harrison)
+[Photographs from the Frederick Fried Coney Island Collection](https://dlc.library.columbia.edu/coney_island)
+[Tibetan Studies Special Collections at Columbia University](https://dlc.library.columbia.edu/tibetan_collection)
+
+
 ### Documentation of Professional Activities
 
 

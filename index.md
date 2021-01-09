@@ -216,6 +216,8 @@ Hebal, Piotr, Ilik, Violeta, and Holmes, Kristi. Starting from scratch – build
 
 ### Blog Posts
 
+Colomb, Julien, Hosseni, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, Kern, Barbara and Holmes Kristi (August 4, 2020). Advancing collaborative research with contributor roles [Blog post]. Retrieved from <https://www.force11.org/blog/advancing-collaborative-research-contributor-roles>
+
 Ilik, Violeta (2017, October 19). Real Time Information Channel [Blog post]. Retrieved from <https://ilikvioleta.blogspot.com/2017/10/real-time-information-channel.html>
 
 Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <https://ilikvioleta.blogspot.com/2017/08/why-not-share.html>
@@ -334,9 +336,11 @@ VIVO - Connect - Share - Discover (August 2018- December 2019)
 
 ### Teaching/Workshops 
 
+Participant, FAIRIO - FAIR research information in Open Infrastructures, [Reusability of Research Information](https://projects.tib.eu/fairio/workshops/reusability/) The State Scientific Library of the Ukraine in Kyiv (SSTL) and the TIB - Leibniz Information Centre for Science and Technology. December 8, 2020
+
 Participant, FAIRIO - FAIR research information in Open Infrastructures, [Accessibility of Research Information](https://projects.tib.eu/fairio/workshops/accessibility/) The State Scientific Library of the Ukraine in Kyiv (SSTL) and the TIB - Leibniz Information Centre for Science and Technology. November 2, 2020 
 
-Participant, FAIRIO - FAIR research information in Open Infrastructures, [Workshop on Interoperabiliy of Research Information](https://projects.tib.eu/fairio/workshops/interoperability/). The State Scientific Library of the Ukraine in Kyiv (SSTL) and the TIB - Leibniz Information Centre for Science and Technology. September 21, 2020 
+Participant, FAIRIO - FAIR research information in Open Infrastructures, [Interoperabiliy of Research Information](https://projects.tib.eu/fairio/workshops/interoperability/). The State Scientific Library of the Ukraine in Kyiv (SSTL) and the TIB - Leibniz Information Centre for Science and Technology. September 21, 2020 
 
 Instructor: Mike Conlon, Violeta Ilik, Huda Kahn, and Benjamin Gross: VIVO Camp 2018, New York, NY, October 18-20, 2018.
 

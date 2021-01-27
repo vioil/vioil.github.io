@@ -92,6 +92,8 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
+Conlon, Michael; Hauschke, Christian; Ilik, Violeta; Kasprzik, Anna; Lowe, Brian; O'Flinn, Ralph; et al. (2021): VIVO Ontology Development: Why, What, and How. figshare. Presentation. <https://doi.org/10.6084/m9.figshare.13645577.v1> VIVO North American User's Group Meeting, on-line, January 19, 2021
+
 Ilik, Violeta (2020). [Knowledge Dissemination and the Libraries of the Future.](https://doi.org/10.6084/m9.figshare.13251722.v1) Canadian Open Neuroscience Platform (CONP). November 4, 2020.
 
 Ilik, Violeta (2020). In a moving world re-adaptation is the price of longevity. [CBK and the Library of the Future: Anticipating the Second Knowledge Revolution panel](https://mobilizecbk.med.umich.edu/events/2020-mcbk-virtual-meeting). Mobilizing Computable Biomedical Knowledge 2020 Annual Meeting (virtual), June 30, 2020.

@@ -86,7 +86,7 @@ Mandell, L. and Ilik, V. (2013). The Role of XSLT in Digital Libraries, Editions
 Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials Librarian 63(3-4): 350-358. <http://dx.doi.org/10.1080/0361526X.2012.717525>
 
 
-### Presentations and Posters
+### Presentations | Posters | Reports
 
 #### Presentations 
 
@@ -215,6 +215,10 @@ Friedman, Paul, Kibbe, Warren, Ilik, Violeta, Starren, Justin, and Holmes, Krist
 Friedman, Paul, Kibbe, Warren, Ilik, Violeta, Holmes, Kristi, Starren, Justin (2015). VIVO Around the World. VIVO 2015 Conference, Cambridge, MA, August 13, 2015.  <https://dx.doi.org/10.18131/G3W88P> 
 
 Hebal, Piotr, Ilik, Violeta, and Holmes, Kristi. Starting from scratch – building the perfect digital repository. Open Repositories 2015, Indianapolis, IN, June 9, 2015. <http://dx.doi.org/10.18131/G3G599>
+
+#### Reports
+
+DataCite Metadata Working Group. (2019). DataCite Metadata Schema for the Publication and Citation of Research Data. Version 4.3. DataCite e.V. <https://doi.org/10.14454/f2wp-s162>
 
 ### Blog Posts
 

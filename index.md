@@ -218,6 +218,8 @@ Hebal, Piotr, Ilik, Violeta, and Holmes, Kristi. Starting from scratch – build
 
 #### Reports
 
+DataCite Metadata Working Group. (2021). DataCite Metadata Schema Documentation for the Publication and Citation of Research Data and Other Research Outputs. Version 4.4. DataCite e.V. <https://doi.org/10.14454/3w3z-sa82>
+
 DataCite Metadata Working Group. (2019). DataCite Metadata Schema for the Publication and Citation of Research Data. Version 4.3. DataCite e.V. <https://doi.org/10.14454/f2wp-s162>
 
 ### Blog Posts

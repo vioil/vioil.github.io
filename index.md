@@ -96,7 +96,7 @@ Conlon, Michael; Hauschke, Christian; Ilik, Violeta; Kasprzik, Anna; Lowe, Brian
 
 Ilik, Violeta (2020). [Knowledge Dissemination and the Libraries of the Future.](https://doi.org/10.6084/m9.figshare.13251722.v1) Canadian Open Neuroscience Platform (CONP). November 4, 2020.
 
-Ilik, Violeta (2020). In a moving world re-adaptation is the price of longevity. [CBK and the Library of the Future: Anticipating the Second Knowledge Revolution panel](https://mobilizecbk.med.umich.edu/events/2020-mcbk-virtual-meeting). Mobilizing Computable Biomedical Knowledge 2020 Annual Meeting (virtual), June 30, 2020.
+Ilik, Violeta (2020). In a moving world re-adaptation is the price of longevity. [CBK and the Library of the Future: Anticipating the Second Knowledge Revolution panel](https://mobilizecbk.med.umich.edu/news-events/annual-meetings/2020-mcbk-virtual-meeting). Mobilizing Computable Biomedical Knowledge 2020 Annual Meeting (virtual), June 30, 2020.
 
 Conlon, Michael and Ilik, Violeta (2020). Ontology for Scholarship: Revising the VIVO Ontology. CNI Spring Meeting, March 30-31, 2020, San Diego, CA. Presentations moved online due to COVID-19. Talk presented on April 21, 2020. <https://doi.org/10.6084/m9.figshare.12167949.v3>
 

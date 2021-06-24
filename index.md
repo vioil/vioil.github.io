@@ -256,13 +256,13 @@ ALCTS Scholarly Communication Interest Group Vice-Chair/Chair, 2015-2017
 
 ALA, ALCTS, Continuing Resources, Committee on Holdings Information, 2013 – 2017
 
-[DataCite Metadata Working Group](https://schema.datacite.org/), March 2019 - present
+[DataCite Metadata Working Group](https://schema.datacite.org/), 2019 - 2021
 
 European Semantic Web Conference (ESWC) 2021 - [Virtual Conference Co-Chair](https://2021.eswc-conferences.org/organising-committee/)
 
 [FORCE11 Fundraising Committee](https://www.force11.org/group/force11-fundraising-committee), 2019 
 
-[FORCE11 Sponsorship Committee Lead for the 2018 Conference](https://www.force11.org/meetings/force2018/committee/force2018-committees)
+[FORCE11 Sponsorship Committee Lead, 2018](https://www.force11.org/meetings/force2018/committee/force2018-committees)
 
 FORCE11  Program Planning Committee member for the 2017 Conference 
 
@@ -301,7 +301,7 @@ Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee
 
 VIVO Camp Task Force Instructor, 2016–2018
 
-VIVO [Ontology Interest Group](https://wiki.duraspace.org/pages/viewpage.action?pageId=108757225), 2018 -
+VIVO [Ontology Interest Group](https://wiki.duraspace.org/pages/viewpage.action?pageId=108757225), 2018 - 2021
 
 VIVO 2018 Sponsorship Lead, September 2017-March 2018
 
@@ -328,7 +328,7 @@ ConnectNY - [Board of Directors](http://connectny.org/contacts/) (July 2020 - )
 
 ### FSCI Steering Committee
 
-FORCE11 Scholarly Communications Institute (FSCI) (January 2020 -)
+FORCE11 Scholarly Communications Institute (FSCI) (January 2020 -June 2021)
 
 ### Editorial Board Member
 

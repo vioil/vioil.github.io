@@ -262,7 +262,7 @@ European Semantic Web Conference (ESWC) 2021 - [Virtual Conference Co-Chair](htt
 
 [FORCE11 Fundraising Committee](https://www.force11.org/group/force11-fundraising-committee), 2019 
 
-[FORCE11 Sponsorship Committee Lead, 2018](https://www.force11.org/meetings/force2018/committee/force2018-committees)
+[FORCE11 Sponsorship Committee Chair, 2018](https://www.force11.org/meetings/force2018/committee/force2018-committees)
 
 FORCE11  Program Planning Committee member for the 2017 Conference 
 
@@ -295,6 +295,8 @@ OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013-20
 
 [Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 -](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
 
+Program for Cooperative Cataloging Task Group on Gender in Name Authority Records, May 2021 - 
+
 Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee 2014-2015](https://tdl.org/2014/10/save-date-tcdl-2015-april-2728-austin/)
 
 [VIVO 2019 Conference Chair](http://vivoconference.org/)
@@ -318,7 +320,7 @@ VIVO 2015 Program Planning Committee and Session Chair
 
 ### Board co-chair
 
-Co-chair of the Executive Board of Directors: FORCE11 - The Future of Research Communication and e-Scholarship (October 2019 -)
+Co-chair of the Executive Board of Directors: FORCE11 - The Future of Research Communication and e-Scholarship (October 2019 - June 2021)
 
 ### Board Member
 

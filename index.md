@@ -92,6 +92,8 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
+Conlon, Mike, Hauschke, Christian, Ilik, Violeta, Kasprzik, Anna, Lowe, Brian, Nüst. Daniel, … Walther, Tatiana. (2021, July). Geospatial information in VIVO - thoughts, ideas, suggestions. Presented at the 12th VIVO Conference 2021 (VIVO2021), Zenodo. <http://doi.org/10.5281/zenodo.5082370>
+
 Conlon, Michael; Hauschke, Christian; Ilik, Violeta; Kasprzik, Anna; Lowe, Brian; O'Flinn, Ralph; et al. (2021): VIVO Ontology Development: Why, What, and How. figshare. Presentation. <https://doi.org/10.6084/m9.figshare.13645577.v1> VIVO North American User's Group Meeting, on-line, January 19, 2021
 
 Ilik, Violeta (2020). [Knowledge Dissemination and the Libraries of the Future.](https://doi.org/10.6084/m9.figshare.13251722.v1) Canadian Open Neuroscience Platform (CONP). November 4, 2020.
@@ -250,6 +252,20 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 
 #### International and National Committees (alphabetical order)
 
+##### Active
+
+[Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 -](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
+
+Program for Cooperative Cataloging Task Group on Gender in Name Authority Records, May 2021 - 
+
+###### Board Member
+
+FORCE11 - The Future of Research Communication and e-Scholarship (January 2018 -)
+
+ConnectNY - [Board of Directors](http://connectny.org/contacts/) (July 2020 - )
+
+##### Completed
+
 ALCTS/LITA Linked Library Data Interest Group Co-Chair/Chair, 2014-2016
 
 ALCTS Scholarly Communication Interest Group Vice-Chair/Chair, 2015-2017
@@ -293,10 +309,6 @@ NASIG, Program Planning Committee, member 2012 – 2018
 
 OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013-2018
 
-[Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 -](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
-
-Program for Cooperative Cataloging Task Group on Gender in Name Authority Records, May 2021 - 
-
 Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee 2014-2015](https://tdl.org/2014/10/save-date-tcdl-2015-april-2728-austin/)
 
 [VIVO 2019 Conference Chair](http://vivoconference.org/)
@@ -322,11 +334,6 @@ VIVO 2015 Program Planning Committee and Session Chair
 
 Co-chair of the Executive Board of Directors: FORCE11 - The Future of Research Communication and e-Scholarship (October 2019 - June 2021)
 
-### Board Member
-
-FORCE11 - The Future of Research Communication and e-Scholarship (January 2018 -)
-
-ConnectNY - [Board of Directors](http://connectny.org/contacts/) (July 2020 - )
 
 ### FSCI Steering Committee
 

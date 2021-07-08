@@ -250,21 +250,20 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 ### Documentation of Professional Activities
 
 
-#### International and National Committees (alphabetical order)
-
-##### Active
+#### International and National Committees - Active (alphabetical order)
 
 [Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 -](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
 
 Program for Cooperative Cataloging Task Group on Gender in Name Authority Records, May 2021 - 
 
-###### Board Member
+##### Board Member
 
 FORCE11 - The Future of Research Communication and e-Scholarship (January 2018 -)
 
 ConnectNY - [Board of Directors](http://connectny.org/contacts/) (July 2020 - )
 
-##### Completed
+
+#### International and National Committees - Completed (alphabetical order)
 
 ALCTS/LITA Linked Library Data Interest Group Co-Chair/Chair, 2014-2016
 
@@ -330,24 +329,24 @@ VIVO 2016 Conference Program Co-Chair
 VIVO 2015 Program Planning Committee and Session Chair
 
 
-### Board co-chair
+#### Board co-chair
 
 Co-chair of the Executive Board of Directors: FORCE11 - The Future of Research Communication and e-Scholarship (October 2019 - June 2021)
 
 
-### FSCI Steering Committee
+#### FSCI Steering Committee
 
 FORCE11 Scholarly Communications Institute (FSCI) (January 2020 -June 2021)
 
-### Editorial Board Member
+#### Editorial Board Member
 
 Library Resources and Technical Services (LRTS) 2017-2021
 
-### VIVO Leadership Group
+#### VIVO Leadership Group
 
 VIVO - Connect - Share - Discover (July 2018- December 2019)
 
-### VIVO Steering Group
+#### VIVO Steering Group
 
 VIVO - Connect - Share - Discover (August 2018- December 2019)
 

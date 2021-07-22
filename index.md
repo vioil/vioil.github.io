@@ -256,6 +256,10 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 
 Program for Cooperative Cataloging Task Group on Gender in Name Authority Records, May 2021 - 
 
+#### Board co-chair
+
+FORCE11 - The Future of Research Communication and e-Scholarship, Co-chair of the Executive Board of Directors (October 2019 -)
+
 ##### Board Member
 
 FORCE11 - The Future of Research Communication and e-Scholarship (January 2018 -)
@@ -327,11 +331,6 @@ VIVO 2016 Conference Program Co-Chair
 [VIVO Implementation Documentation Task Force – Lead](https://wiki.duraspace.org/display/VIVO/VIVO+Implementation+Documentation+Task+Force), 2015
 
 VIVO 2015 Program Planning Committee and Session Chair
-
-
-#### Board co-chair
-
-Co-chair of the Executive Board of Directors: FORCE11 - The Future of Research Communication and e-Scholarship (October 2019 - June 2021)
 
 
 #### FSCI Steering Committee

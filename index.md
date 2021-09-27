@@ -314,6 +314,8 @@ NASIG, Program Planning Committee, member 2012 – 2018
 
 OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013-2018
 
+[Open Science Fair 2021, Organising and Programme Committee](https://www.loc.gov/events/2021-national-book-festival/schedule/video-on-demand/item/webcast-9945/)
+
 Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee 2014-2015](https://tdl.org/2014/10/save-date-tcdl-2015-april-2728-austin/)
 
 [VIVO 2019 Conference Chair](http://vivoconference.org/)

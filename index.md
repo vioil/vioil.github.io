@@ -252,8 +252,6 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 
 #### International and National Committees - Active (alphabetical order)
 
-[Open Science Fair 2021 Organizing and Program Committee](https://www.opensciencefair.eu/committees-2021)
-
 [Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 -](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
 
 Program for Cooperative Cataloging Task Group on Gender in Name Authority Records, May 2021 - 

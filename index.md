@@ -252,13 +252,14 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 
 #### International and National Committees - Active (alphabetical order)
 
+Knowledge Graph Conference
+
+* Program Committee 2022
+
 [Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 -](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
 
 Program for Cooperative Cataloging Task Group on Gender in Name Authority Records, May 2021 - 
 
-#### Board co-chair
-
-FORCE11 - The Future of Research Communication and e-Scholarship, Co-chair of the Executive Board of Directors (October 2019 -)
 
 ##### Board Member
 
@@ -279,13 +280,13 @@ ALA, ALCTS, Continuing Resources, Committee on Holdings Information, 2013 – 20
 
 European Semantic Web Conference (ESWC) 2021 - [Virtual Conference Co-Chair](https://2021.eswc-conferences.org/organising-committee/)
 
-[FORCE11 Fundraising Committee](https://www.force11.org/group/force11-fundraising-committee), 2019 
+FORCE11 Fundraising Committee Chair, 2019
 
-[FORCE11 Sponsorship Committee Chair, 2018](https://www.force11.org/meetings/force2018/committee/force2018-committees)
+FORCE11 Sponsorship Committee Chair, 2018
 
-FORCE11  Program Planning Committee member for the 2017 Conference 
+FORCE11  2017 Program Planning Committee member, April 2017, Berlin, Gemrany 
 
-FORCE11 Program Planning Committee member for the 2016 Conference, April 2016 in Portland, Oregon: 
+FORCE11 2016 Program Planning Committee member, April 2016, Portland, Oregon, USA: 
 
 * Co-Chair of the Demo and Poster Sessions
 
@@ -334,6 +335,9 @@ VIVO 2016 Conference Program Co-Chair
 
 VIVO 2015 Program Planning Committee and Session Chair
 
+#### Board co-chair
+
+FORCE11 - The Future of Research Communication and e-Scholarship, Co-chair of the Executive Board of Directors (October 2019 - September 2021)
 
 #### FSCI Steering Committee
 

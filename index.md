@@ -284,7 +284,7 @@ FORCE11 Fundraising Committee Chair, 2019
 
 FORCE11 Sponsorship Committee Chair, 2018
 
-FORCE11  2017 Program Planning Committee member, April 2017, Berlin, Gemrany 
+FORCE11  2017 Program Planning Committee member, October 2017, Berlin, Germany 
 
 FORCE11 2016 Program Planning Committee member, April 2016, Portland, Oregon, USA: 
 

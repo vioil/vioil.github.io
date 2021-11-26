@@ -34,6 +34,7 @@ Stony Brook University Libraries, Head of Cataloging and Metadata Services: July
 Northwestern University, Feinberg School of Medicine, NUCATS, Galter Health Sciences Library, Head, Digital Systems and Collection Services: November 1, 2014 – July 24, 2017
 
 Texas A&M University Libraries
+
 	* Assistant Professor, February 1, 2012 – October 30, 2014
 	* Library Specialist I-III, Texas A&M University Libraries, November 2007 - February 2012
 

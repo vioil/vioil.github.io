@@ -35,7 +35,7 @@ Northwestern University, Feinberg School of Medicine, NUCATS, Galter Health Scie
 
 Texas A&M University Libraries
 
-* Assistant Professor, February 1, 2012 – October 30, 2014
+* Assistant Professor, February 1, 2012 – October 31, 2014
 * Library Specialist I-III, Texas A&M University Libraries, November 2007 - February 2012
 
 ### Documentation of Publications, Research, and Presentations

@@ -27,15 +27,15 @@ Bachelor of Science, Ss. Cyril and Methodius University, Skopje, Macedonia
 
 ### Experience
 
-Head of Digital Collections and Preservation Systems, Columbia University Libraries, 1, April 2018 - 30, June 2020
+Columbia University Libraries, Head of Digital Collections and Preservation Systems: April 1, 2018 - June 30, 2020
 
-Head of Cataloging and Metadata Services, Stony Brook University Libraries, July 2017 - March 2018
+Stony Brook University Libraries, Head of Cataloging and Metadata Services: July 27, 2017 - March 30, 2018
 
-Head, Digital Systems and Collection Services - Northwestern University, Feinberg School of Medicine, Northwestern University Clinical and Translational Sciences Institute, Galter Health Sciences Library, November 2014 – July 2017
+Northwestern University, Feinberg School of Medicine, NUCATS, Galter Health Sciences Library, Head, Digital Systems and Collection Services: November 1, 2014 – July 24, 2017
 
-Assistant Professor, Texas A&M University Libraries, February 2012 – October 2014
-
-Library Specialist I-III, Texas A&M University Libraries, November 2007 - February 2012
+Texas A&M University Libraries
+	* Assistant Professor, February 1, 2012 – October 30, 2014
+	* Library Specialist I-III, Texas A&M University Libraries, November 2007 - February 2012
 
 ### Documentation of Publications, Research, and Presentations
 

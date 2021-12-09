@@ -93,6 +93,8 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
+Hosseini, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, & Holmes, Kristi. (2021, December 9). Deep Dive: Ethics of Contributor Roles. FORCE2021. Zenodo. https://doi.org/10.5281/zenodo.5770658
+
 Conlon, Mike, Hauschke, Christian, Ilik, Violeta, Kasprzik, Anna, Lowe, Brian, Nüst. Daniel, … Walther, Tatiana. (2021, July). Geospatial information in VIVO - thoughts, ideas, suggestions. Presented at the 12th VIVO Conference 2021 (VIVO2021), Zenodo. <http://doi.org/10.5281/zenodo.5082370>
 
 Conlon, Michael; Hauschke, Christian; Ilik, Violeta; Kasprzik, Anna; Lowe, Brian; O'Flinn, Ralph; et al. (2021): VIVO Ontology Development: Why, What, and How. figshare. Presentation. <https://doi.org/10.6084/m9.figshare.13645577.v1> VIVO North American User's Group Meeting, on-line, January 19, 2021
@@ -256,6 +258,8 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 Knowledge Graph Conference
 
 * Program Committee 2022
+
+Open Publishing Awards 2021 - Judge
 
 [Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 -](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
 

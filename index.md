@@ -145,7 +145,7 @@ Ilik, Violeta (2017). Beyond the Manuscript: Using IRs for Non-traditional Conte
 
 Riemer, John, Ilik, Violeta, and PCC Task Group on Identity Management in NACO (2017). Authority Control’ see (also) ‘Identity Management. LITA/ALCTS Authority Control Interest Group. American Library Association Midwinter Meeting, Atlanta, GA, January 22, 2017. <http://connect.ala.org/node/261280>
 
-Pastva, Joelen, Jason T Todd Stirnaman, Piotr Hebal, and Violeta Ilik. Digitalhub Workflows: Preserving and Sharing Scholarly Work Using NM's Repository. Durham, North Carolina, United States: DigitalHub. Galter Health Sciences Library, 2016. doi:10.18131/G3DW41
+Pastva, Joelen, Jason T Todd Stirnaman, Piotr Hebal, and Violeta Ilik. (2016). Digitalhub Workflows: Preserving and Sharing Scholarly Work Using NM's Repository. Durham, North Carolina, United States: DigitalHub. Galter Health Sciences Library, 2016. <https://doi.org/10.18131/G3DW41>
 
 Haendel, Melissa; Holmes, Kristi; Ilik, Violeta; McMurry, Julie; Conlon, Michael; Brush, Matthew. (2016). An ecosystem of contributions. figshare. <https://dx.doi.org/10.6084/m9.figshare.3180364.v2>. Force 2016 Conference, Portland, OR, April 2016.
 
@@ -205,6 +205,8 @@ Conlon, Michael; Ilik, Violeta; Lowe, Brian; Hauschke, Christian; White, Marijan
 Conlon, Michael; Ilik, Violeta; Lowe, Brian; Hauschke, Christian; White, Marijane; Javed, Muhammed; et al. (2019): Identifying Ontological Domains Related to VIVO. 10th International VIVO Conference, September 5, 2019. Podgorica, Montenegro. figshare. Poster. <https://doi.org/10.6084/m9.figshare.9756770.v1> 
 
 Ilik, Violeta, and Kristi Lee Holmes. We Built it and They Came! Building a Repository Solution for the Future. MLA 2017, Seattle, WA, May 30, 2017. Galter Health Sciences Library, 2017. <http://dx.doi.org/10.18131/G3S32R>
+
+Gutzman, Karen E, Violeta Ilik, Ramune Karolina Kubilius, Kristi Holmes, Susan J Wishnetsky, Joelen Pastva, Anton J Olson, Jonathan P Shank, Piotr Hebal, and Jason T Todd Stirnaman. Digitalhub Poster. DigitalHub. Galter Health Sciences Library, 2016. <https://doi.org/10.18131/G3T021>
 
 White, Marijane, Essaid Shahim, Brush, Matthew; Gutzman, Karen; Rademaker, Alexandre; Johnson, Tenille, Javed, Muhammad, Corson-Rikert, Jon, Chacko, George, Conlon, Michael, Viggio, Alex, Lindquist, Thea, Holmes, Kristi, Haendel, Melissa, Ilik, Violeta (2016): Who we are and what we contribute: The Open Research Information Framework as a means to understand scholarship. VIVO 2016 Conference, Denver, CO, August 18, 2016.
 <https://dx.doi.org/10.6084/m9.figshare.3753345.v1>

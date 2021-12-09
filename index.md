@@ -145,6 +145,8 @@ Ilik, Violeta (2017). Beyond the Manuscript: Using IRs for Non-traditional Conte
 
 Riemer, John, Ilik, Violeta, and PCC Task Group on Identity Management in NACO (2017). Authority Control’ see (also) ‘Identity Management. LITA/ALCTS Authority Control Interest Group. American Library Association Midwinter Meeting, Atlanta, GA, January 22, 2017. <http://connect.ala.org/node/261280>
 
+Pastva, Joelen, Jason T Todd Stirnaman, Piotr Hebal, and Violeta Ilik. Digitalhub Workflows: Preserving and Sharing Scholarly Work Using NM's Repository. Durham, North Carolina, United States: DigitalHub. Galter Health Sciences Library, 2016. doi:10.18131/G3DW41
+
 Haendel, Melissa; Holmes, Kristi; Ilik, Violeta; McMurry, Julie; Conlon, Michael; Brush, Matthew. (2016). An ecosystem of contributions. figshare. <https://dx.doi.org/10.6084/m9.figshare.3180364.v2>. Force 2016 Conference, Portland, OR, April 2016.
 
 Ilik, Violeta. (2016). Navigating the Digital Scholar Sphere. Illinois Board of Higher Education (IBHE), Faculty Advisory Council. Chicago, Illinois, United States: Galter Health Sciences Library, Feinberg School of Medicine, Northwestern University. <http://dx.doi.org/10.18131/G3Q59G> 

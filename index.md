@@ -233,6 +233,9 @@ DataCite Metadata Working Group. (2019). DataCite Metadata Schema for the Public
 
 ### Blog Posts
 
+Hosseni, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, and Holmes Kristi (January 20, 2022). Deep dive into ethics of Contributor Roles: report of a FORCE11 workshop
+[Blog post]. Retrieved from <https://doi.org/10.54900/rf84ag3-98f00rt-0phta>
+
 Colomb, Julien, Hosseni, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, Kern, Barbara and Holmes Kristi (August 4, 2020). Advancing collaborative research with contributor roles [Blog post]. Retrieved from <https://www.force11.org/blog/advancing-collaborative-research-contributor-roles>
 
 Ilik, Violeta (2017, October 19). Real Time Information Channel [Blog post]. Retrieved from <https://ilikvioleta.blogspot.com/2017/10/real-time-information-channel.html>
@@ -262,8 +265,6 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 Knowledge Graph Conference
 
 * Program Committee 2022
-
-Open Publishing Awards 2021 - Judge
 
 [Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 -](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
 
@@ -319,6 +320,8 @@ NASIG, Program Planning Committee, Chair 2017-2018
 NASIG, Program Planning Committee, Vice-Chair 2016-2017
 
 NASIG, Program Planning Committee, member 2012 – 2018 
+
+[Open Publishing Awards 2021](https://openpublishingawards.org/results/2021/index.html) - Judge
 
 OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013-2018
 

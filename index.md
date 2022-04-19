@@ -93,7 +93,7 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
-Hosseini, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, & Holmes, Kristi. (2021, December 9). Deep Dive: Ethics of Contributor Roles. FORCE2021. Zenodo. https://doi.org/10.5281/zenodo.5770658
+Hosseini, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, & Holmes, Kristi. (2021, December 9). Deep Dive: Ethics of Contributor Roles. FORCE2021. Zenodo. <https://doi.org/10.5281/zenodo.5770658>
 
 Conlon, Mike, Hauschke, Christian, Ilik, Violeta, Kasprzik, Anna, Lowe, Brian, Nüst. Daniel, … Walther, Tatiana. (2021, July). Geospatial information in VIVO - thoughts, ideas, suggestions. Presented at the 12th VIVO Conference 2021 (VIVO2021), Zenodo. <http://doi.org/10.5281/zenodo.5082370>
 
@@ -227,6 +227,8 @@ Hebal, Piotr, Ilik, Violeta, and Holmes, Kristi. Starting from scratch – build
 
 #### Reports
 
+Program for Cooperative Cataloging Ad Hoc Task Group on Recording Gender in Name Authority Records <https://www.loc.gov/aba/pcc/documents/gender-in-NARs-revised-report.pdf>
+
 DataCite Metadata Working Group. (2021). DataCite Metadata Schema Documentation for the Publication and Citation of Research Data and Other Research Outputs. Version 4.4. DataCite e.V. <https://doi.org/10.14454/3w3z-sa82>
 
 DataCite Metadata Working Group. (2019). DataCite Metadata Schema for the Publication and Citation of Research Data. Version 4.3. DataCite e.V. <https://doi.org/10.14454/f2wp-s162>
@@ -268,7 +270,7 @@ Knowledge Graph Conference
 
 [Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 -](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
 
-Program for Cooperative Cataloging Task Group on Gender in Name Authority Records, May 2021 - 
+Program for Cooperative Cataloging Ad Hoc Task Group on Recording Gender in Name Authority Records, May 2021 - 
 
 
 ##### Board Member

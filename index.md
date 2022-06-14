@@ -303,7 +303,7 @@ International Society for Biocuration (ISB) Award Committee - [2020 Biocuration 
 
 Knowledge Graph Conference
 
-* Program Committee 2022
+* [Program Committee 2022](https://www.knowledgegraph.tech/2022-home/kgc-2022-team/)
 
 Knowledge Graph Conference
 

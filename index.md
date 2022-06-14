@@ -264,13 +264,8 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 
 #### International and National Committees - Active (alphabetical order)
 
-Knowledge Graph Conference
 
-* Program Committee 2022
-
-[Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 -](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
-
-Program for Cooperative Cataloging Ad Hoc Task Group on Recording Gender in Name Authority Records, May 2021 - 
+[Program for Cooperative Cataloging Identity Management Advisory Committee, June 2022 - June 2023](https://www.loc.gov/aba/pcc/documents/Identity-Management-Advisory-Committee-Charge.pdf)
 
 
 ##### Board Member
@@ -308,6 +303,10 @@ International Society for Biocuration (ISB) Award Committee - [2020 Biocuration 
 
 Knowledge Graph Conference
 
+* Program Committee 2022
+
+Knowledge Graph Conference
+
 * Program Committee 2021
 
 [Knowledge Graph Conference](https://www.knowledgegraph.tech/the-knowledge-graph-conference-kgc/about)
@@ -328,6 +327,10 @@ NASIG, Program Planning Committee, member 2012 – 2018
 OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013-2018
 
 [Open Science Fair 2021, Organising and Programme Committee](https://www.loc.gov/events/2021-national-book-festival/schedule/video-on-demand/item/webcast-9945/)
+
+[Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 - June 2022](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
+
+Program for Cooperative Cataloging Ad Hoc Task Group on Recording Gender in Name Authority Records, May 2021 - April 2022
 
 Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee 2014-2015](https://tdl.org/2014/10/save-date-tcdl-2015-april-2728-austin/)
 

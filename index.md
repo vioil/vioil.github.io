@@ -265,7 +265,9 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 #### International and National Committees - Active (alphabetical order)
 
 
-[Program for Cooperative Cataloging Identity Management Advisory Committee, June 2022 - June 2023](https://www.loc.gov/aba/pcc/documents/Identity-Management-Advisory-Committee-Charge.pdf)
+[Program for Cooperative Cataloging Identity Management Advisory Committee, June 2022 - June 2023](https://www.loc.gov/aba/pcc/advisory/identity-management.html)
+
+##### Vice Chair, ConnectNY Board of Directors (July 2022 -)
 
 
 ##### Board Member

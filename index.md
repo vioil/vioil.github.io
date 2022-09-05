@@ -45,6 +45,8 @@ Texas A&M University Libraries
 #### Refereed Publications (articles, proceedings)
 
 
+Anderson, Judy, Jordan Andrade, Virginia Barbour, Jeff Belliston, Marilyn Billings, Michael Boock, Mark Christel, et al. 2022. “Public COAPI Toolkit of Open Access Policy Resources.” OSF. July 13. <https://doi.org/10.17605/OSF.IO/VHW6D> 
+
 Nicole A. Vasilevsky, Mohammad Hosseini, Samantha Teplitzky, Violeta Ilik, Ehsan Mohammadi, Juliane Schneider, Barbara Kern, Julien Colomb, Scott C. Edmunds, Karen Gutzman, Daniel S. Himmelstein, Marijane White, Britton Smith, Lisa O’Keefe, Melissa Haendel & Kristi L. Holmes (2020) Is authorship sufficient for today’s collaborative research? A call for contributor roles, Accountability in Research, <https://doi.org/10.1080/08989621.2020.1779591>
 
 Durocher, Michelle; Dagher, Iman; Ilik, Violeta; Long, Chris Evin; Norris, Jeanette A.; Quintana, Isabel del Carmen; & Théroux, Manon (2020): The PCC ISNI Pilot: Exploring Identity Management on a Global, Collaborative Scale, Cataloging & Classification Quarterly. <https://doi.org/10.1080/01639374.2020.1713952> 
@@ -107,7 +109,7 @@ Conlon, Michael and Ilik, Violeta (2020). Ontology for Scholarship: Revising the
 
 Ilik, Violeta; Mendenhall, Timothy R.; Sokolova, Dina V.; Wacker, Melanie; Whelan, Alexander J. (alphabetical order) (2020). Future Proof: Preserving and Providing Access to Columbia's Audio Visual Collections. Visual Resources Association (VRA) Annual Conference 2020, March 25, Baltimore, MD. Presentations moved online due to COVID-19. Talk presented on June 16, 2020. <https://doi.org/10.7916/d8-jkpp-6w29>
 
-Sokolova, Dina; Ilik, Violeta; Davis, Stephen P. (2019). Digital Preservation at Columbia University Libraries. Lear More Session, Columbia University Libraries. New York, NY, November 21, 2019. <https://doi.org/10.7916/d8-3d1r-5515>
+Sokolova, Dina; Ilik, Violeta; Davis, Stephen P. (2019). Digital Preservation at Columbia University Libraries. Learn More Session, Columbia University Libraries. New York, NY, November 21, 2019. <https://doi.org/10.7916/d8-3d1r-5515>
 
 DeVito, Jennifer A., McGivney,  Claudia, and Ilik, Violeta (2019). Leadership Strategies for Librarians. Louisiana Virtual Academic Library Conference, November 7, 2019. <https://doi.org/10.6084/m9.figshare.10274066.v1>
 
@@ -235,10 +237,12 @@ DataCite Metadata Working Group. (2019). DataCite Metadata Schema for the Public
 
 ### Blog Posts
 
-Hosseni, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, and Holmes Kristi (January 20, 2022). Deep dive into ethics of Contributor Roles: report of a FORCE11 workshop
+Hosseni, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, and Holmes, Kristi (January 20, 2022). Deep dive into ethics of Contributor Roles: report of a FORCE11 workshop
 [Blog post]. Retrieved from <https://doi.org/10.54900/rf84ag3-98f00rt-0phta>
 
-Colomb, Julien, Hosseni, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, Kern, Barbara and Holmes Kristi (August 4, 2020). Advancing collaborative research with contributor roles [Blog post]. Retrieved from <https://www.force11.org/blog/advancing-collaborative-research-contributor-roles>
+Colomb, Julien, Hosseni, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, Kern, Barbara and Holmes, Kristi (August 4, 2020). Advancing collaborative research with contributor roles [Blog post]. Retrieved from <https://www.force11.org/blog/advancing-collaborative-research-contributor-roles>
+
+Sokolova Dina, Ilik, Violeta, and Davis, Stephen (November 6, 2019). 2019 World Digital Preservation Day. <https://blogs.cul.columbia.edu/ldpd/2019/11/07/2019-world-digital-preservation-day/>
 
 Ilik, Violeta (2017, October 19). Real Time Information Channel [Blog post]. Retrieved from <https://ilikvioleta.blogspot.com/2017/10/real-time-information-channel.html>
 
@@ -266,6 +270,8 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 
 
 [Program for Cooperative Cataloging Identity Management Advisory Committee, June 2022 - June 2023](https://www.loc.gov/aba/pcc/advisory/identity-management.html)
+
+[Program for Cooperative Cataloging (PCC) Task Group on Gender](https://www.loc.gov/aba/pcc/taskgroup/TG-on-Gender-charge.pdf) (July 2022 - )
 
 ##### Vice Chair, ConnectNY Board of Directors (July 2022 -)
 

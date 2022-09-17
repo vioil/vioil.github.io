@@ -45,8 +45,6 @@ Texas A&M University Libraries
 #### Refereed Publications (articles, proceedings)
 
 
-Anderson, Judy, Jordan Andrade, Virginia Barbour, Jeff Belliston, Marilyn Billings, Michael Boock, Mark Christel, et al. 2022. “Public COAPI Toolkit of Open Access Policy Resources.” OSF. July 13. <https://doi.org/10.17605/OSF.IO/VHW6D> 
-
 Nicole A. Vasilevsky, Mohammad Hosseini, Samantha Teplitzky, Violeta Ilik, Ehsan Mohammadi, Juliane Schneider, Barbara Kern, Julien Colomb, Scott C. Edmunds, Karen Gutzman, Daniel S. Himmelstein, Marijane White, Britton Smith, Lisa O’Keefe, Melissa Haendel & Kristi L. Holmes (2020) Is authorship sufficient for today’s collaborative research? A call for contributor roles, Accountability in Research, <https://doi.org/10.1080/08989621.2020.1779591>
 
 Durocher, Michelle; Dagher, Iman; Ilik, Violeta; Long, Chris Evin; Norris, Jeanette A.; Quintana, Isabel del Carmen; & Théroux, Manon (2020): The PCC ISNI Pilot: Exploring Identity Management on a Global, Collaborative Scale, Cataloging & Classification Quarterly. <https://doi.org/10.1080/01639374.2020.1713952> 
@@ -95,6 +93,8 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
+Ilik, Violeta (2022): Is it FAIR or FAIR enough?. Keynote Presentation. <https://doi.org/10.6084/m9.figshare.21029425.v1> 25th International Symposium on Electronic Theses and Dissertations – ETD 2022, Novi Sad, Serbia. September 7 - 9, 2022.
+
 Hosseini, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, & Holmes, Kristi. (2021, December 9). Deep Dive: Ethics of Contributor Roles. FORCE2021. Zenodo. <https://doi.org/10.5281/zenodo.5770658>
 
 Conlon, Mike, Hauschke, Christian, Ilik, Violeta, Kasprzik, Anna, Lowe, Brian, Nüst. Daniel, … Walther, Tatiana. (2021, July). Geospatial information in VIVO - thoughts, ideas, suggestions. Presented at the 12th VIVO Conference 2021 (VIVO2021), Zenodo. <http://doi.org/10.5281/zenodo.5082370>
@@ -229,6 +229,8 @@ Hebal, Piotr, Ilik, Violeta, and Holmes, Kristi. Starting from scratch – build
 
 #### Reports
 
+Anderson, Judy, Jordan Andrade, Virginia Barbour, Jeff Belliston, Marilyn Billings, Michael Boock, Mark Christel, et al. 2022. “Public COAPI Toolkit of Open Access Policy Resources.” OSF. July 13. <https://doi.org/10.17605/OSF.IO/VHW6D> 
+
 Program for Cooperative Cataloging Ad Hoc Task Group on Recording Gender in Name Authority Records <https://www.loc.gov/aba/pcc/documents/gender-in-NARs-revised-report.pdf>
 
 DataCite Metadata Working Group. (2021). DataCite Metadata Schema Documentation for the Publication and Citation of Research Data and Other Research Outputs. Version 4.4. DataCite e.V. <https://doi.org/10.14454/3w3z-sa82>
@@ -338,7 +340,7 @@ OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013-20
 
 [Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 - June 2022](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
 
-Program for Cooperative Cataloging Ad Hoc Task Group on Recording Gender in Name Authority Records, May 2021 - April 2022
+[Program for Cooperative Cataloging Ad Hoc Task Group on Recording Gender in Name Authority Records]( report: https://www.loc.gov/aba/pcc/documents/gender-in-NARs-revised-report.pdf), May 2021 - April 2022
 
 Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee 2014-2015](https://tdl.org/2014/10/save-date-tcdl-2015-april-2728-austin/)
 

@@ -340,7 +340,7 @@ OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013-20
 
 [Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 - June 2022](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
 
-[Program for Cooperative Cataloging Ad Hoc Task Group on Recording Gender in Name Authority Records]( report: https://www.loc.gov/aba/pcc/documents/gender-in-NARs-revised-report.pdf), May 2021 - April 2022
+[Program for Cooperative Cataloging Ad Hoc Task Group on Recording Gender in Name Authority Records](https://www.loc.gov/aba/pcc/documents/gender-in-NARs-revised-report.pdf), May 2021 - April 2022
 
 Texas Conference on Digital Libraries (TCDL) 2015 [Conference Planning Committee 2014-2015](https://tdl.org/2014/10/save-date-tcdl-2015-april-2728-austin/)
 

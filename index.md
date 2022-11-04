@@ -8,6 +8,7 @@ title: Violeta Ilik
 ### Dean
 #### Adelphi University Libraries
 ##### ilik.violeta at gmail.com
+##### <!-- <a rel="me" href="https://scholar.social/@violeta">Mastodon</a> -->
 
 
 <span about="" prefix="foaf: http://xmlns.com/foaf/0.1/ owl: http://www.w3.org/2002/07/owl#" typeof="foaf:PersonalProfileDocument" rel="foaf:primaryTopic"><span about="https://vioil.github.io/#i" typeof="foaf:Person"><span property="foaf:name" content="Violeta Ilik"></span><a href="https://orcid.org/0000-0003-2588-3084" target="orcid.widget" rel="noopener noreferrer owl:sameAs" style="vertical-align:top;"><img about="https://vioil.github.io/#i" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon" />orcid.org/0000-0003-2588-3084</a><span rel="foaf:homepage" resource="https://vioil.github.io/"></span><span rel="foaf:img" resource="https://avatars1.githubusercontent.com/u/3239996"></span><span rel="foaf:knows" resource="http://csarven.ca/#i"></span></span></span>
@@ -93,6 +94,8 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
+Hook, Daniel, Ilik, Violeta (2022): The Psychology of Metrics. Charleston Conference, Charleston, SC, USA. November 3, 2022. <https://chsconf.cadmore.media/Category/9b66be50-cae2-4947-9a2f-c777a9706bcb>
+
 Ilik, Violeta (2022): Is it FAIR or FAIR enough?. Keynote Presentation. <https://doi.org/10.6084/m9.figshare.21029425.v1> 25th International Symposium on Electronic Theses and Dissertations – ETD 2022, Novi Sad, Serbia. September 7 - 9, 2022.
 
 Hosseini, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, & Holmes, Kristi. (2021, December 9). Deep Dive: Ethics of Contributor Roles. FORCE2021. Zenodo. <https://doi.org/10.5281/zenodo.5770658>

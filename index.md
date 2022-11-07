@@ -245,7 +245,7 @@ DataCite Metadata Working Group. (2019). DataCite Metadata Schema for the Public
 Hosseni, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, and Holmes, Kristi (January 20, 2022). Deep dive into ethics of Contributor Roles: report of a FORCE11 workshop
 [Blog post]. Retrieved from <https://upstream.force11.org/deep-dive-into-ethics-of-contributor-roles/>
 
-Colomb, Julien, Hosseni, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, Kern, Barbara and Holmes, Kristi (August 4, 2020). Advancing collaborative research with contributor roles [Blog post]. 
+Colomb, Julien, Hosseni, Mohammad, Ilik, Violeta, Vasilevsky, Nicole, Kern, Barbara and Holmes, Kristi (August 4, 2020). Advancing collaborative research with contributor roles [Blog post]. <https://force11.org/post/advancing-collaborative-research-with-contributor-roles/>
 
 Sokolova Dina, Ilik, Violeta, and Davis, Stephen (November 6, 2019). 2019 World Digital Preservation Day. <https://blogs.cul.columbia.edu/ldpd/2019/11/07/2019-world-digital-preservation-day/>
 

@@ -94,6 +94,8 @@ Ilik, V. (2012). Off-Site Storage from a Cataloging Point of View. The Serials L
 
 ##### International and National
 		
+Davis, Jee, Dawes, Trevor, Ilik, Violeta (2023): Academic Library Leaders Discuss Difficult Topics. ACRL Conference, Pittsburg, PA, USA. March 16, 2023.
+
 Hook, Daniel, Ilik, Violeta (2022): The Psychology of Metrics. Charleston Conference, Charleston, SC, USA. November 3, 2022. <https://chsconf.cadmore.media/Category/9b66be50-cae2-4947-9a2f-c777a9706bcb>
 
 Ilik, Violeta (2022): Is it FAIR or FAIR enough?. Keynote Presentation. <https://doi.org/10.6084/m9.figshare.21029425.v1> 25th International Symposium on Electronic Theses and Dissertations – ETD 2022, Novi Sad, Serbia. September 7 - 9, 2022.

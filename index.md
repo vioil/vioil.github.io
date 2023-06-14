@@ -7,6 +7,7 @@ title: Violeta Ilik
 
 ### Dean
 #### Adelphi University Libraries
+#### Research Fellow at the Institute for Advanced Interdisciplinary Research at Ss. Cyril and Methodius University in Skopje, Republic of North Macedonia.
 ##### ilik.violeta at gmail.com
 ##### <!-- <a rel="me" href="https://scholar.social/@violeta">Mastodon</a> -->
 

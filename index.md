@@ -276,7 +276,7 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 #### International and National Committees - Active (alphabetical order)
 
 
-[Program for Cooperative Cataloging Identity Management Advisory Committee, June 2022 - June 2023](https://www.loc.gov/aba/pcc/advisory/identity-management.html)
+[Program for Cooperative Cataloging Identity Management Advisory Committee, June 2022 - June 2026](https://www.loc.gov/aba/pcc/advisory/identity-management.html)
 
 [Program for Cooperative Cataloging (PCC) Task Group on Gender](https://www.loc.gov/aba/pcc/taskgroup/TG-on-Gender-charge.pdf) (July 2022 - )
 
@@ -318,9 +318,9 @@ International Society for Biocuration (ISB) Award Committee - [2020 Biocuration 
 
 Knowledge Graph Conference
 
-* [Program Committee 2022](https://www.knowledgegraph.tech/2022-home/kgc-2022-team/)
+* Program Committee 2023
 
-Knowledge Graph Conference
+* [Program Committee 2022](https://www.knowledgegraph.tech/2022-home/kgc-2022-team/)
 
 * Program Committee 2021
 

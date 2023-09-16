@@ -5,7 +5,7 @@ title: Violeta Ilik
 
 # Violeta Ilik
 
-### Dean, Adelphi University Libraries
+### Executive Director, Data Strategy, JP Morgan Chase & Co. 
 #### Research Fellow at the Institute for Advanced Interdisciplinary Research at Ss. Cyril and Methodius University in Skopje, Republic of North Macedonia.
 ##### ilik.violeta at gmail.com
 ##### <!-- <a rel="me" href="https://scholar.social/@violeta">Mastodon</a> -->
@@ -27,6 +27,8 @@ Bachelor of Science, Ss. Cyril and Methodius University, Skopje, Macedonia
 	Major: Chemical Engineering
 
 ### Experience
+
+Dean, Adelphi University Libraries: July 1, 2020 - August 31, 2023
 
 Columbia University Libraries, Head of Digital Collections and Preservation Systems: April 1, 2018 - June 30, 2020
 

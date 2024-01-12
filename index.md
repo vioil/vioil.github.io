@@ -6,7 +6,7 @@ title: Violeta Ilik
 # Violeta Ilik
 
 ### Executive Director, Data Strategy, JPMorgan Chase & Co. 
-#### Research Fellow at the Institute for Advanced Interdisciplinary Research at Ss. Cyril and Methodius University in Skopje, Republic of North Macedonia.
+### Research Fellow at the Institute for Advanced Interdisciplinary Research at Ss. Cyril and Methodius University in Skopje, Republic of North Macedonia.
 ##### ilik.violeta at gmail.com
 ##### <!-- <a rel="me" href="https://scholar.social/@violeta">Mastodon</a> -->
 
@@ -277,19 +277,9 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 
 #### International and National Committees - Active (alphabetical order)
 
+Knowledge Graph Conference 2024, Program Committee Member
 
 [Program for Cooperative Cataloging Identity Management Advisory Committee, June 2022 - June 2026](https://www.loc.gov/aba/pcc/advisory/identity-management.html)
-
-[Program for Cooperative Cataloging (PCC) Task Group on Gender](https://www.loc.gov/aba/pcc/taskgroup/TG-on-Gender-charge.pdf) (July 2022 - )
-
-##### Vice Chair, ConnectNY Board of Directors (July 2022 -)
-
-
-##### Board Member
-
-FORCE11 - The Future of Research Communication and e-Scholarship (January 2018 -)
-
-ConnectNY - [Board of Directors](http://connectny.org/contacts/) (July 2020 - )
 
 
 #### International and National Committees - Completed (alphabetical order)
@@ -345,6 +335,8 @@ OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013-20
 
 [Open Science Fair 2021, Organising and Programme Committee](https://www.loc.gov/events/2021-national-book-festival/schedule/video-on-demand/item/webcast-9945/)
 
+[Program for Cooperative Cataloging (PCC) Task Group on Gender](https://www.loc.gov/aba/pcc/taskgroup/TG-on-Gender-charge.pdf) (July 2022 - December 2023)
+
 [Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 - June 2022](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
 
 [Program for Cooperative Cataloging Ad Hoc Task Group on Recording Gender in Name Authority Records](https://www.loc.gov/aba/pcc/documents/gender-in-NARs-revised-report.pdf), May 2021 - April 2022
@@ -369,9 +361,15 @@ VIVO 2016 Conference Program Co-Chair
 
 VIVO 2015 Program Planning Committee and Session Chair
 
-#### Board co-chair
+#### Board Leadership Positions
 
-FORCE11 - The Future of Research Communication and e-Scholarship, Co-chair of the Executive Board of Directors (October 2019 - September 2021)
+##### Co-Chair, FORCE11 - The Future of Research Communication and e-Scholarship, Executive Board of Directors (October 2019 - September 2021)
+##### Vice Chair, ConnectNY Board of Directors (July 2022 - August 2023)
+
+#### Board Member
+
+FORCE11 - The Future of Research Communication and e-Scholarship (January 2018 - December 2023)
+ConnectNY - [Board of Directors](http://connectny.org/contacts/) (July 2020 - August 2023)
 
 #### FSCI Steering Committee
 

@@ -5,7 +5,7 @@ title: Violeta Ilik
 
 # Violeta Ilik
 
-### Executive Director, Data Strategy, JPMorgan Chase & Co. 
+### Executive Director, CCB Chief Data Office, Data Governance, JPMorganChase 
 ### Research Fellow at the Institute for Advanced Interdisciplinary Research at Ss. Cyril and Methodius University in Skopje, Republic of North Macedonia.
 ##### ilik.violeta at gmail.com
 ##### <!-- <a rel="me" href="https://scholar.social/@violeta">Mastodon</a> -->

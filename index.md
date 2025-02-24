@@ -275,13 +275,6 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 ### Documentation of Professional Activities
 
 
-#### International and National Committees - Active (alphabetical order)
-
-Knowledge Graph Conference 2024, Program Committee Member
-
-[Program for Cooperative Cataloging Identity Management Advisory Committee, June 2022 - June 2026](https://www.loc.gov/aba/pcc/advisory/identity-management.html)
-
-
 #### International and National Committees - Completed (alphabetical order)
 
 ALCTS/LITA Linked Library Data Interest Group Co-Chair/Chair, 2014-2016
@@ -310,6 +303,8 @@ International Society for Biocuration (ISB) Award Committee - [2020 Biocuration 
 
 Knowledge Graph Conference
 
+* Program Committee 2024
+  
 * Program Committee 2023
 
 * [Program Committee 2022](https://www.knowledgegraph.tech/2022-home/kgc-2022-team/)
@@ -336,6 +331,8 @@ OpenRIF, VIVO–Integrated Semantic Framework (ISF) Ontology, Developer, 2013-20
 [Open Science Fair 2021, Organising and Programme Committee](https://www.loc.gov/events/2021-national-book-festival/schedule/video-on-demand/item/webcast-9945/)
 
 [Program for Cooperative Cataloging (PCC) Task Group on Gender](https://www.loc.gov/aba/pcc/taskgroup/TG-on-Gender-charge.pdf) (July 2022 - December 2023)
+
+[Program for Cooperative Cataloging Identity Management Advisory Committee, June 2022 - June 2026](https://www.loc.gov/aba/pcc/advisory/identity-management.html)
 
 [Program for Cooperative Cataloging Task Group on Identity Management in NACO, 2016 - June 2022](https://www.loc.gov/aba/pcc/taskgroup/PCC-TG-Identity-Management-in-NACO-rev2018-05-22.pdf)
 

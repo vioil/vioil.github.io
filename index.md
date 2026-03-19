@@ -274,6 +274,10 @@ Ilik, Violeta (2017, August, 26). Why not share? [Blog post]. Retrieved from <ht
 
 ### Documentation of Professional Activities
 
+#### International and National Committees
+
+Open Copyright Education Advisory Network (OCEAN) - Board member, 2026 - 
+
 
 #### International and National Committees - Completed (alphabetical order)
 
